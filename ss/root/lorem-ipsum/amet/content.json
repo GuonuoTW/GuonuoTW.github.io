@@ -1,0 +1,11 @@
+{
+  "title": "amet",
+  "folders": [],
+  "files": [
+    {
+      "title": "super secret document",
+      "name": "super-secret-file.md"
+    }
+  ],
+  "mainFile": "main.md"
+}
