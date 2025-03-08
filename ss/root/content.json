@@ -1,21 +1,14 @@
 {
   "title": "Root",
   "folders": [
-    "lorem-ipsum"
+    "Rules",
+    "Resources"
   ],
   "files": [
     {
       "title": "Lorem ipsum",
       "name": "lorem-ipsum.md"
-    },
-    {
-      "title": "Dolor sit amet",
-      "name": "dolor-sit-amet.md"
-    },
-    {
-      "title": "Consectetur adipiscing elit",
-      "name": "consectetur-adipiscing-elit.md"
     }
   ],
-  "mainFile": "main.md"
+  "mainFile": "context.md"
 }
