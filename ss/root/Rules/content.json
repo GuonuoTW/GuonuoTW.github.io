@@ -2,7 +2,8 @@
   "title": "Rules",
   "folders": [
     "newchar",
-    "battle"
+    "battle",
+    "glossary"
   ],
   "files": [],
   "mainFile": "context.md"
