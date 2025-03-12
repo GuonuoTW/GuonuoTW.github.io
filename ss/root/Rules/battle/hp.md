@@ -1,35 +1,35 @@
 # HP, Willpower, and Energy Pools
 
 # HP 
-Health Points (HP) represents a character's current health status. Each point of HP they have corresponds to one of 4 types of injuries: 
+Health Points (HP) represents a character's current health status. Each point of HP corresponds to one of 4 types: 
 
-- Healthy (H)
-- Blunt (B)
+- Healthy (H) <- Default Unharmed.
+- Bludgeoning (B)
 - Lethal (L)
 - Aggravated (A)
 
 (H+B+L+A=Total HP.)
-This is indicated by HP(?), ? as the type of injuries.
-B, L, A type of HP are collectively called "Wounded Points"
+This is indicated by HP(?), ? as the type.
+B, L, A type of HP are collectively called "Wounded Points" or "Injuries". 
 (ex. HP(H) means H type of HP.)
 
 Every time your character take damage, check whether they "Faint" or "Deteriorate".
 
 **Fainting** <br>
-If the character no longer have any HP(H) and they do not have any HP(A), Your character faints. (Unconscious).
+If the character no longer have any HP(H) and they do not have any HP(A), Your character faints (Unconscious).
 
-Your character wake up the moment they recovers a point of HP(H) or a point of Willpower.
-The character can also be awakened by RP methods, including splashing cold water - ST decides whether it works or not.
+Your character wake up the moment they recover a point of HP(H) or a point of Willpower.
+The character can also be awakened by RP methods, ex. getting splashed cold water - ST decides whether it works or not.
 
 
 **Deteriorating** <br>
-If the character no longer have any HP(H) and they DO have HP(A), then other than fainting, they also suffer deterioration. At the end of the character's turn, a point of HP turns into HP(A) (HP(L) first). This continues until either the character only have HP(A) or they recovers a point of HP(H). In addition, deterioration stops the moment the character recovers HP from any source, or a successful "First Aid" Check. 
+If the character no longer have any HP(H) and they DO have HP(A), then other than fainting, they also suffer deterioration. At the end of the character's turn, a point of HP turns into HP(A) (HP(L) first). This continues until either the character only have HP(A) or they recover a point of HP(H). In addition, deterioration stops the moment the character recovers HP from any source, or a successful "First Aid" Check. 
 
 **Death** <br>
-If the character only have HP(A), they are consider "Dead" unless specify. Some abilities might trigger on death, choose ONLY ONE to activate. (All other abilities remain untriggered.)
+If the character has only HP(A), they are consider "Dead" unless specified. Some abilities might trigger on death, choose ONLY ONE to activate. (All other abilities remain untriggered.)
 
 **Life states** <br>
-Some enhancements or abilities allow you to know a creature's life states. Unless specified, rather than exact numbers, you will only get one of the following vague states:
+Some enhancements or abilities allow you to know a creature's life state. Unless specified, rather than exact numbers, you will only get one of the following vague states:
 
 - Unharmed: The creature isn't injured at all. (All HP(A))
 - Minor injured: Convert all the wounded points into HP(B) (L->2B, A->3B), and it does not exceed their total HP.
@@ -47,4 +47,47 @@ When you take DMG(B), for every point of DMG, turn 1 HP(H) into 1 HP(B); If you 
 When you take DMG(L), for every point of DMG, turn 1 HP(H) into 1 HP(L); If you no longer have HP(H), turn 1 HP(B) into 1 HP(L); If you no longer have HP(B), turn 1 HP(L) into 1 HP(A) 
 
 When you take DMG(A), for every point of DMG, turn 1 HP(H) into 1 HP(A); If you no longer have HP(H), turn 1 HP(B) into 1 HP(A); If you no longer have HP(B), turn 1 HP(L) into 1 HP(A) 
-If you take multiple degrees of DMG, start converting from the lowest tier (B then L then A)
+
+If you take multiple degrees of DMG, start converting from the lowest tier (B then L then A).
+
+*Example:*
+
+**Natural Recovery**
+A Short Rest (At least 15 minutes) heals 1 HP(B) back to HP(H).
+
+Every 2 days, with at least 2 Long Rests (At least 8 hours) heals 1 HP(L) back to HP(H).
+
+Every 7 days, with at least 7 Long Rests (At least 8 hours) heals 1 HP(A) back to HP(H).
+
+These rests does not coexist: ex. A 7-day rest can either heal 1 HP(A) or 3 HP(L).
+However, you may split a longer rest into multiple shorter rest.
+_Additionlly:_
+
+For every Short Rest you've taken, you can attempt to do a Debuff Saving Check
+
+For every Long Rest, you may recover 1 point of Willpower.
+
+For every Long Rest lasting at least 24 hours, you may heal 1 point of Stats Damage.
+
+These effects are stackable.
+
+**Natural Recovery Acceleration**
+Some abilities grant you faster natural recovery. Divide the amount of time required for a full rest by the multiple number, round up. 
+
+**Rapid Healing, Regeneration**
+WIP.
+
+**Temporary Hit Point**
+Temporary HP works the same way as shields. Drop the tier of the injuries taken, and decrease the number from Temporary HP, starting from the highest tier.
+Temporary HP does not work on "Inevitable ?? Damage" or "Convert target's HP to HP(?)".
+
+Temporary HP are not stackable. Unless specified, Abilities that grant Temporary HP only take effect once per scene, and only last for a scene.
+
+**Temporary Max HP Adjustments**
+
+
+
+**Secondary HP**
+
+
+# Willpower

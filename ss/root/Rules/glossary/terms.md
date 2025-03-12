@@ -11,7 +11,6 @@ Means unless an equipment, enhancement, or other causes that change the followin
 ### The Basics
 
 **[Check] [Checks]** <br>
-Many d10s rolling
 
 **[Opp. Roll]** <br>
 Opportunity Roll
@@ -44,3 +43,12 @@ A concept - Could be a skill, spell, action, item usage...
 Health Points
 
 **[Recover] [Recovery]** <br>
+
+**[Short Rest]** <br>
+A rest that last at least 15 minutes. You may not do any extra actions during the rest.
+
+**[Long Rest]** <br>
+A rest that last at least 8 hours. You may not do any extra actions during the rest. (That is to say, a Long Rest is often slept through.)
+
+### Debuff
+**[Debuff Saving]** <br>
