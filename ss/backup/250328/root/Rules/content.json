@@ -1,0 +1,10 @@
+{
+  "title": "Rules",
+  "folders": [
+    "newchar",
+    "battle",
+    "glossary"
+  ],
+  "files": [],
+  "mainFile": "context.md"
+}

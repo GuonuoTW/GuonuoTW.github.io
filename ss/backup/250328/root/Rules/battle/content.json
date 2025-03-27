@@ -1,0 +1,31 @@
+{
+  "title": "Battles",
+  "folders": [],
+  "files": [
+    {
+      "title": "HP, Willpower, and Energy Pools",
+      "name": "hp.md"
+    },
+    {
+      "title": "How a Battle Goes",
+      "name": "battlestructure.md"
+    },
+    {
+      "title": "Concept of Time & Actions",
+      "name": "time.md"
+    },
+    {
+      "title": "Spellcasting",
+      "name": "casting.md"
+    },
+    {
+      "title": "Damage Types & Defending",
+      "name": "dmgtype.md"
+    },
+    {
+      "title": "Debuffs",
+      "name": "debuff.md"
+    }
+  ],
+  "mainFile": "context.md"
+}
