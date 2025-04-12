@@ -84,10 +84,51 @@ Temporary HP does not work on "Inevitable ?? Damage" or "Convert target's HP to 
 Temporary HP are not stackable. Unless specified, Abilities that grant Temporary HP only take effect once per scene, and only last for a scene.
 
 **Temporary Max HP Adjustments**
-
+WIP.
 
 
 **Secondary HP**
-
+WIP.
 
 # Willpower
+
+Your initial maximum Willpower point is equal to your Volition. Willpower is NOT an energy pool, and is not considered one. Any Enhancements or Abilities related to energy pool do not apply.
+
+The character may use Willpower as long as they have self-awareness. That is, they may not use it when they are asleep, unconscious, or in other states.
+**Using Willpower**
+When the character performs an action (Attacks, Skill checks...) that only requires a single Check (Extended actions are excluded), they may use 1 point of Willpower to gain +3 DP Pefect Bonus. This effect can only be used once per action, and does not spend any action.
+
+Additionally, The character can spend 1 point of Willpower to gain +3 DP Pefect Bonus against that specific attack as well.
+
+Some enhancements or abilities might change this usage.
+
+**Other usages of Willpower**
+Resisting against Fainting due to injuries:
+When the character faints due to injuries, they may spend 1 point of Willpower to remain conscious for 1 round in battle (Without spending an action) / 1 hour out of battle. You may choose to spend another point after the duration.
+
+Resisting against Fainting due to conditions:
+When the character faints due to hunger, or other sources, they may spend 1 point of Willpower to remain conscious for 3 hours. This can only be used once per scene and does not spend any actions. The character immediately faints after the duration, even if the cause of Fainting is fixed.
+*Example: You will still faint from "hunger" even if you eat in the duration.*
+
+In both cases, The character will need to spend another point of Willpower if they suffer further injuries or conditions that would cause them to faint.
+*Example: Bob takes 6L and faints, but he immediately use a power of Willpower to stay up. On their turn, they immediately take another 2L damage from bleeding, and cause them to faint again. They need to spend another point before continuing.*
+
+**Temporary Willpower**
+WIP
+
+**Temporary Max Willpower Adjustments**
+WIP
+
+# Energy Pools
+
+**Dependant Stats of the Energy Pool**
+The dependant stats of an energy pool decides its maximum value. Generally, energy pools are dependant on 2 stats, the sum of them is the maximum value.
+
+**Energy Pool Subcategories**
+Based on their dependant stats, energy pools can be categorized into Physiological Energy Pools, Mental Energy Pools, and Social Energy Pools. If the Energy Pool's dependant stats is from two different stats category, the Energy Pool belongs in both subcategories.
+
+**Obtaining Energy Pools**
+There are 3 methods to obtain an energy pool.
+- purchase: Some Energy Pools can be purchased directly.
+- Comes with the resource: Some Energy Pools are only obtainable through buying other resources.
+*Example: Mana Energy Pool.*

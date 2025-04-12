@@ -36,6 +36,9 @@ Expertise, Bloodline, Tome, Alternation, Tags, and Badges.
 **[Ability]** <br>
 A concept - Could be a skill, spell, action, item usage...
 
+**[Bonus]** **[Penalty]** <br>
+Bonus and Penalty are adjustments to your DP, adding or subtracting dices from it.
+(See Glossary/Bonus & Penalty)
 
 ### Battles
 
@@ -49,6 +52,10 @@ A rest that last at least 15 minutes. You may not do any extra actions during th
 
 **[Long Rest]** <br>
 A rest that last at least 8 hours. You may not do any extra actions during the rest. (That is to say, a Long Rest is often slept through.)
+
+**[Extended Actions]** <br>
+
+
 
 ### Debuff
 **[Debuff Saving]** <br>

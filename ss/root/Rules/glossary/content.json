@@ -5,6 +5,10 @@
     {
       "title": "Terminology",
       "name": "terms.md"
+    },
+    {
+      "title": "Bonus & Penalty",
+      "name": "bonus.md"
     }
   ],
   "mainFile": "context.md"
