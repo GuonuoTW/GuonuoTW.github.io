@@ -97,7 +97,7 @@ This is a Standard Action, and can only be performed once per round.
 For this attack, you gain "Reinforcement Bonus" equal to your Strength/2, capped at your Base Defense Value.
 Afterward, you lose an equal amount of Base Defense for 1 round.
 
-**Charging Attack:**
+**Charge Attack:**
 This is a Full-Turn Action, You spend a Movement Action to move in front of the enemy, then do a Melee Attack.
 Calculate the distance you moved to reach the enemy: for every meter, you gain "+1DP Enhancement Bonus" to your attack roll, and your Base Defense loses 1 point.
 This bonus may not exceed your Strength, nor can it decrease your Base Defense below 0. Your Speed limits how far you can charge.
@@ -106,3 +106,4 @@ When Charging, you must have a straight, clean path towards your enemy. Which me
 - There is no other Characters, Enemies, Crates, Terrain that hinders your movement.
 特殊：若角色擁有某些特殊能力可以讓你沖鋒只受到力量上限的影響，則此時你可以無視基礎防御的上限，超過基礎防御的部分變為無名防御減值。
 特殊：若角色擁有某些特殊能力可以讓角色不受到沖鋒減值，則此時角色進行沖鋒的最大DP上限，除非特殊說明，否則依然受到基礎防御和力量的影響。
+
