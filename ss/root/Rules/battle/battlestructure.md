@@ -72,21 +72,22 @@ Effects with no description specified are classified as neither melee attacks no
 
 
 Here are the types of attacks you may deliver.
+Each success from the attack causes 1 point of damage.
 ### **__Melee Attacks__**
 Base "Reach" : Born Weapon Size/2 (minimum 1) + Blade Weapon Size/3
 
 **Barehand Attack:** Make a melee ordinary physical attack with your Born Weapon. (Most of the your Born Weapon is your fists.)
 This is a Standard Action.
-Roll DP = Strength + Brawl Skill + Born Weapon Damage - Target Defense ± Modifiers, each success causing 1 point of damage.
-Max DMG = Strength + Brawl + Born Weapon Damage.
+Roll DP = STR + Brawl Skill + Born Weapon Damage - Target Defense ± Modifiers.
+Max DMG = STR + Brawl + Born Weapon Damage.
 Ordinary human bodies can only cause DMG(B); Learning specific abilities, and gaining special enhancements, using knuckles, or possessing other Born Weapons may cause DMG(L). 
 Size of your Fist, Feat, Claws is your Size/5.
 Size of your tail is your Size/3.
 
 **Bladed Attack:** Make a melee ordinary physical attack with blades.
 This is a Standard Action.
-Roll DP = Strength + Blade Skill + Blade Weapon Damage - Target Defense ± Modifiers, each success causing 1 point of damage.
-Max DMG = Strength + Blade Skill + Blade Weapon Damage.
+Roll DP = STR + Blade Skill + Blade Weapon Damage - Target Defense ± Modifiers, each success causing 1 point of damage.
+Max DMG = STR + Blade Skill + Blade Weapon Damage.
 Most Blades causes DMG(L), with some exceptions like sandbags, which causes DMG(B);
 Most weapons have a requirement to use, generally Stats, Skills, or Professions.
 If it's Stats or Skills, each point below the required value is "-2DP Machinary Bonus", up to 3 points below. In that case, you may not use the weapon
@@ -94,7 +95,7 @@ If it's Profession, see "No Profession Penalty".
 
 **Full-Force Attack:** Does higher damage at the cost of your defense.
 This is a Standard Action, and can only be performed once per round.
-For this attack, you gain "Reinforcement Bonus" equal to your Strength/2, capped at your Base Defense Value.
+For this attack, you gain "Reinforcement Bonus" equal to your STR/2, capped at your Base Defense Value.
 Afterward, you lose an equal amount of Base Defense for 1 round.
 
 **Charge Attack:**
@@ -107,3 +108,44 @@ When Charging, you must have a straight, clean path towards your enemy. Which me
 特殊：若角色擁有某些特殊能力可以讓你沖鋒只受到力量上限的影響，則此時你可以無視基礎防御的上限，超過基礎防御的部分變為無名防御減值。
 特殊：若角色擁有某些特殊能力可以讓角色不受到沖鋒減值，則此時角色進行沖鋒的最大DP上限，除非特殊說明，否則依然受到基礎防御和力量的影響。
 
+### **__Ranged Attacks__**
+Note: If you do not have Line of Sight or the target is hidden, you cannot attack even if they are in your range.
+
+Distance Penalty: For every 1x the weapon's range unit that the target's distance exceeds, the Attack Check suffers a -2 DP penalty. Your maximum throwing attack distance is 1x range unit * STR: you might be able to throw farther, but cannot make a meaningful attack.
+
+**Throwing weapon:** Make a ranged ordinary physical attack with a throwing weapon
+This is a Standard Action.
+Roll DP (Light Throwing Weapon or Throwing weapon)= DEX + Athletics + Weapon DMG - Target Defense - Distance Penalty ± Modifiers. 
+Roll DP (Heavy Throwing Weapon)= STR + Athletics + Weapon DMG - Target Defense - Distance Penalty ± Modifiers. 
+Max DMG = STR + Athletics + Weapon Damage.
+If you don't meet the minimum STR requirement for using the weapon, for each point your below your STR, you suffer a "-2 DP Machinary Penalty" on attacks. If lower by 3 points or more, you cannot use it. 
+Additionally, for each multiple of the weapon's range exceeded, you suffer an extra -2 DP Distance penalty.
+
+**Bow:** Make a ranged ordinary physical attack with a bow.
+This is a Standard Action.
+Roll DP = DEX + Athletics + Weapon DMG - Target Defense - Distance penalty ± Modifiers.
+The maximum distance for a bow attack is 8 times the bow's range unit.
+Max DMG = Weapon DMG*2 + Athletics + Bow's STR requirement.
+Bows must be used with two hands; you cannot use a bow with one hand.
+
+**Gun / Crossbow:** Make a ranged ordinary physical attack with a gun or crossbow.
+Note: "Cannons" do not fit under this category.
+This is a Standard Action.
+Roll DP = DEX + Firearms + Weapon DMG - Target Defense - Distance penalty ± Modifiers.
+The maximum distance for a gun/crossbow attack is 5 times the gun/crossbow's range unit.
+Max DMG = Weapon DMG*2 + Firearms.
+These weapons gets "High Speed" Inscription on their attacks. (See Glossary/"Item Inscriptions")
+If the target being shot at is within 5 meters, they can ignore the "High Speed" Inscription.
+
+**Cannons:**
+WIP
+
+**SpellCasting:**
+This is generally a Standard Action, but may vary depends on the description of the spell.
+Roll DP = INT + Occult + Spell Power ± Modifiers.
+The spell will determine whether it is an "attack" spell based on its own spell description. If its effect includes attack specifications, then the target's defense must be deducted as normal; otherwise, no deduction is needed.
+When using spells that cause damage, debuffs, and spells that take account of your success count, the maximum number of successes after the check (including Max DMG and debuff points, etc.) = INT + Occult + Spell Power.
+See "Casting a Spell" for more info.
+A pure Spellcasting Check is not an attack, so actions that can be performed when attacked are ineffective.
+However, actions that can be performed when taking damage can be used normally.
+Spellcasting checks cannot receive bonuses like "you gain xx bonus when making an attack.", but Attack with an Spellcasting Check can receive such bonus normally.

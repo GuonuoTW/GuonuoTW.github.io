@@ -24,7 +24,7 @@ Machinary Bonus:
 
 Speed Bonus:
 
-Morale
+Morale Bonus:
 
 Performance Bonus:
 
