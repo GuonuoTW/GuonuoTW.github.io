@@ -32,7 +32,7 @@ Move Bonus:
 
 Initial Defense Bouse: 基礎防御
 
-閃避
+閃避 Evade
 
 天生防御
 
@@ -40,7 +40,7 @@ Initial Defense Bouse: 基礎防御
 
 盾牌防御
 
-格擋
+格擋 Guarding
 
 環境
 

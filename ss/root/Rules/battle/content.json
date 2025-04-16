@@ -3,6 +3,10 @@
   "folders": [],
   "files": [
     {
+      "title": "Detect & Locate",
+      "name": "detect.md"
+    },
+    {
       "title": "Concept of Time & Actions",
       "name": "time.md"
     },

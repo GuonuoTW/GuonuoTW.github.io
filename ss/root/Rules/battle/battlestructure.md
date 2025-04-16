@@ -69,7 +69,26 @@ Most resources would classified an ability as Melee or Ranged. (Melee here means
 If the resource did not specify, Effects described as melee/ranged are classified as melee/ranged attacks. Unless specified, they default to using "reach"/"range" and other melee-related abilities.
 Effects with no description specified are classified as neither melee attacks nor ranged attacks. The range, shooting distance, reach, etc. of such resources will be separately defined within the resource.
 
+**Attack Check**
+Any abilities with the word "Attack" in the description is considered an attack.
+If the target is singular ("Target: Single") then Target Defense needs to be deducted. If no target is specified and instead affects all units in an area, defense is not deducted.
+Additionally: a specified "STR + Blade" etc. doesn't need to deduct defense.
 
+**Area Effect**
+Attacking each target in an area separately is not considered an AOE.
+When attacking targets in an area separately, you must make a separate attack check against each target. When using similar abilities, you can still only attack targets you have already Located. (See "Detect & Locate")
+
+**Multiple Effects**
+For weapons with multiple special effects, when causing damage only once under normal circumstances, all multiple special effects can take effect.
+When damage is caused by multiple ammunition with different effects or similar situations, if even one piece of ammunition among the multiple pieces has no special effect, then this damage has no special effects whatsoever. If each piece has a special effect, and they are all different, then the ST chooses one to take effect.
+
+**Max DMG**
+Any resource with wording "Extra DMG" is not taken into account of Max DMG
+
+**DMG Exceeds/Overflow**
+When a character receives damage exceeding what their current HP can take, the excess damage is not calculated, but the exceeding situation is noted.
+*ex: A character has 2 HP(H) remaining and takes 5 DMG(L). When calculating health points, the character now has 2 HP(A), without calculating the 1 point of overflow damage, but the overflow damage situation is confirmed.
+In some cases where resources have special instructions, overflow damage will be calculated.
 
 Here are the types of attacks you may deliver.
 Each success from the attack causes 1 point of damage.
@@ -140,7 +159,7 @@ If the target being shot at is within 5 meters, they can ignore the "High Speed"
 **Cannons:**
 WIP
 
-**SpellCasting:**
+**Spellcasting:**
 This is generally a Standard Action, but may vary depends on the description of the spell.
 Roll DP = INT + Occult + Spell Power ± Modifiers.
 The spell will determine whether it is an "attack" spell based on its own spell description. If its effect includes attack specifications, then the target's defense must be deducted as normal; otherwise, no deduction is needed.
@@ -149,3 +168,88 @@ See "Casting a Spell" for more info.
 A pure Spellcasting Check is not an attack, so actions that can be performed when attacked are ineffective.
 However, actions that can be performed when taking damage can be used normally.
 Spellcasting checks cannot receive bonuses like "you gain xx bonus when making an attack.", but Attack with an Spellcasting Check can receive such bonus normally.
+
+**Aiming:** 
+This is a Whole-round action.
+You can only aim at enemies within a maximum of 3 range units and within your Blurry Vision Range. No checks are needed, 
+When you attack your aimmed enemy, you gain +1DP Aiming Bonus and 1 point higher on Max DMG. If you do any other Standard Action or Movement Action before attacking, or if you are hit by a melee attack, you lose your aiming benefit.
+You may Aim for multiple rounds up to 5 times.
+
+### **__Defensive Actions__**
+
+**Full Defense**
+This is a Standard Action.
+You focus on dodging your enemy. your Defense gains a Evade Bonus equal to your Basic Defense. At the same time, you gain DP Evade bonus equal to your Basic Defense on Saving Throws against area damage.
+Additionally, If you can see your enemy with a gun/crossbow, their "High Speed" Inscription would be removed.
+To keep this effect you need Focusing (See "Concept of Time & Actions")
+
+**Guarding with Brawl**
+This is a Movement Action.
+Until your next turn, your defense gain Guarding Bonus equal to your Brawl skill.
+If your born weapon has "Guarding" Inscription, you may add its size on Guarding Bonus. This is called Shielding.
+
+**Guarding with Blade**
+This is a Movement Action.
+Until your next turn, your defense gain Guarding Bonus equal to your Blade skill. You must have blade weapons to guard with this action.
+If your weapon has "Guarding" Inscription, you may add its size on Guarding Bonus. This is called Shielding.
+
+**Finding Cover**
+You can move behind pillars, trees, etc. to hide front attacks, especially Range attacks.
+When attacked, draw a line between the attacker and the victim. If there's any obstacles, it's considered Covered. You are in "Covered defense" equal to (Covering object size - your size + 4) with maximum of 8. If the size of covering object is twice your size, you are considered "Fully Covered".
+
+Different objects provides different amount of coverage. 
+| Amount of coverage | Point | Example |
+|---|---|---|
+| Light cover | +2 Covering Defense | Behind a chair |
+| Half cover | +4 Covering Defense | Peaking from a pillar with half of your body|
+| Heavy cover | +8 Covering Defense | Crouch behind a car |
+| Full cover | Enemies can not attack you since they can't Locate you. | In other rooms |
+
+特殊：你使用帶有【格擋】的物品進行的并非掩蔽而是格擋，此時獲得的是格擋防御和盾牌防御，而非掩蔽防御。
+
+特殊：當目標擁有繞過完全掩蔽定位你和攻擊你的能力，則不視為你全掩蔽。如范圍攻擊，或者雷達定位配合【貫穿】攻擊，在擊破你的掩蔽物后會對你造成傷害。
+
+特殊：云霧，煙霧等可以穿過的掩蔽物只是由于遮蔽視覺對你造成掩蔽效果，所以除了全掩蔽之外，其不會造成其他掩蔽效果。
+
+全掩蔽一般情況下會同時讓目標不知道你的具體位置。但是由于掩蔽物范圍的存在，敵人依然可以大致了解你的活動范圍。
+
+若是通過云層，煙霧等可以穿過的效果造成的視覺的全掩蔽效果。若目標具備某些看穿云霧的效果（如盲視）則可以正常攻擊和定位。或者目標可以進行嘗試攻擊其自認為你所在的區域，如果正好你在，那么其視為在模糊定位下對你造成影響。
+
+**Fire from Concealment / Attack behind a cover**: You may do Range Attacks behind a cover, with a penalty.
+| Coverage | Penalty|
+|---|---|
+| Light Cover | -1DP Environment Penalty |
+| Half Cover | -2DP Environment Penalty |
+| Heavy Cover | -4DP Environment Penalty |
+| Full Cover | No attack allowed! |
+
+### **__Auxiliary Actions__**
+
+**Take out an item**
+Depends on where the item is placed.
+Drawing a normally carried melee or ranged weapon (such as a sword hanging at your waist or a gun in a holster) is a Movement Action.
+Taking out a small item from an easily accessible carrying container (including taking a communicator from your belt, retrieving a bullet or magazine from an ammunition belt, drawing an arrow from a quiver, or pulling a dart from a dart pouch) is a Swift action.
+Taking an item out of a backpack and putting the backpack back on requires a Whole-Round action.
+
+**Reloading**
+Most of the items requires Reloading or Spending Material to use
+The following descriptions are for the entire reload sequence, including take out ammos, detach the original empty magazine/battery etc.
+If ammos are already in hand, downgrade the following action levels, with minimum being Free Action
+If ammos are in any storage, then take it out of the storage, then follow the above description.
+The following actions are all default actions unless otherwise specify.
+- Replacing a magazine for powder firearms or gauss firearms is a Movement Action. 
+- Connecting an ammunition belt to a weapon that uses ammunition belts is a Movement Action. 
+- Replacing one battery for an item is a Movement Action. 
+- Drawing an arrow and nocking it on the bow is a Swift Action. The action of drawing the bowstring is included in the Attack. 
+- Drawing a crossbow bolt and installing it on the crossbow is a Movement Action; After this, you need to use a Movement action to string the crossbow before it can be used for an attack. 
+- To load 1 round of ammunition into a pistol with the "revolver" property, or a speed loader, requires a Movement Action, or you can spend a Whole-Round Action to fully load it. Using a speed loader to load ammunition into a revolver requires a Movement Action. 
+- To fully load a single-shot firearm requires a Movement Action; After this, before each attack, you need to use a Swift action to manually chamber 1 round of ammunition before it can be used for an attack.
+
+**Proning**
+Proning is a Reflex Action. After which the character is considered to be in a Prone state. (See Debuffs)
+
+**Get up from Proning**
+This is a Movement Action.
+
+### **Special Attack Actions**
+These actions replaces the default directly attack action. Unless specified, you may not use any abilities while doing any of the following actions.
