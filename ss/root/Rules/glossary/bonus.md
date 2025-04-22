@@ -44,7 +44,7 @@ Initial Defense Bouse: 基礎防御
 
 環境
 
-洞察
+洞察 Insight
 
 Luck Bonus:
 

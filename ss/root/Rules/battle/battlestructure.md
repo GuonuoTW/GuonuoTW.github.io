@@ -21,10 +21,10 @@ This is trigger through GM's announcement.
 
 **Surprise Round / Assualt Round**
 You may perform 1 Standard Action/Swift Action/Movement Action, and unlimited amount of Free Actions. Enemies who aren't in Surprise Round would be in No Tier Surprised status.
-Special: Despite being a Full-Turn Action, you may do a Charging Attack.
+<u>Special Rule:</u> Despite being a Full-Turn Action, you may do a Charging Attack.
 
 **Initiative in Surprise Round**
-Everyone who is in Surprise Round rolls initiative to decide who goes first.
+Everyone in Surprise Round rolls initiative to decide who goes first.
 
 # Battle Begins!
 **Initiative!**
@@ -65,18 +65,18 @@ Put away a weapon. (This refers to properly storing a weapon. Releasing your han
 For more types of actions and their details, see [[Concept of Time & Actions]] 
 
 ## Common actions in battles
-Most resources would classified an ability as Melee or Ranged. (Melee here means a close-range attack, not necessarily with a weapon)
+Most resources would classify an ability as Melee or Ranged. (Melee here means a close-range attack, not necessarily with a weapon)
 If the resource did not specify, Effects described as melee/ranged are classified as melee/ranged attacks. Unless specified, they default to using "reach"/"range" and other melee-related abilities.
 Effects with no description specified are classified as neither melee attacks nor ranged attacks. The range, shooting distance, reach, etc. of such resources will be separately defined within the resource.
 
 **Attack Check**
-Any abilities with the word "Attack" in the description is considered an attack.
+Any abilities with the word "Attack" in the description are considered an attack.
 If the target is singular ("Target: Single") then Target Defense needs to be deducted. If no target is specified and instead affects all units in an area, defense is not deducted.
-Additionally: a specified "STR + Blade" etc. doesn't need to deduct defense.
+Additionally: a specified "STR + Blade" Check doesn't need to deduct defense.
 
 **Area Effect**
 Attacking each target in an area separately is not considered an AOE.
-When attacking targets in an area separately, you must make a separate attack check against each target. When using similar abilities, you can still only attack targets you have already Located. (See "Detect & Locate")
+When attacking targets in an area separately, you must make a separate attack check against each target. When using similar abilities, you can still only attack targets you have already Located. (See [[Detect & Locate]])
 
 **Multiple Effects**
 For weapons with multiple special effects, when causing damage only once under normal circumstances, all multiple special effects can take effect.
@@ -92,10 +92,10 @@ In some cases where resources have special instructions, overflow damage will be
 
 Here are the types of attacks you may deliver.
 Each success from the attack causes 1 point of damage.
-### **__Melee Attacks__**
+### **<u>Melee Attacks</u>**
 Base "Reach" : Born Weapon Size/2 (minimum 1) + Blade Weapon Size/3
 
-**Barehand Attack:** Make a melee ordinary physical attack with your Born Weapon. (Most of the your Born Weapon is your fists.)
+**Barehand Attack:** Make a melee ordinary physical attack with your Born Weapon. (Most of the Born Weapon is your fists.)
 This is a Standard Action.
 Roll DP = STR + Brawl Skill + Born Weapon Damage - Target Defense ± Modifiers.
 Max DMG = STR + Brawl + Born Weapon Damage.
@@ -107,10 +107,10 @@ Size of your tail is your Size/3.
 This is a Standard Action.
 Roll DP = STR + Blade Skill + Blade Weapon Damage - Target Defense ± Modifiers, each success causing 1 point of damage.
 Max DMG = STR + Blade Skill + Blade Weapon Damage.
-Most Blades causes DMG(L), with some exceptions like sandbags, which causes DMG(B);
+Most Blades cause DMG(L), with some exceptions like sandbags, which causes DMG(B);
 Most weapons have a requirement to use, generally Stats, Skills, or Professions.
 If it's Stats or Skills, each point below the required value is "-2DP Machinary Bonus", up to 3 points below. In that case, you may not use the weapon
-If it's Profession, see "No Profession Penalty".
+If it's Profession, see [[No Profession Penalty]].
 
 **Full-Force Attack:** Does higher damage at the cost of your defense.
 This is a Standard Action, and can only be performed once per round.
@@ -124,10 +124,11 @@ This bonus may not exceed your Strength, nor can it decrease your Base Defense b
 When Charging, you must have a straight, clean path towards your enemy. Which means:
 - You need to be able to move to the closest place where you can deliver your attack, and this place is not blocked or has any obstacle (沒有困難地形)
 - There is no other Characters, Enemies, Crates, Terrain that hinders your movement.
+
 特殊：若角色擁有某些特殊能力可以讓你沖鋒只受到力量上限的影響，則此時你可以無視基礎防御的上限，超過基礎防御的部分變為無名防御減值。
 特殊：若角色擁有某些特殊能力可以讓角色不受到沖鋒減值，則此時角色進行沖鋒的最大DP上限，除非特殊說明，否則依然受到基礎防御和力量的影響。
 
-### **__Ranged Attacks__**
+### **<u>Ranged Attacks</u>**
 Note: If you do not have Line of Sight or the target is hidden, you cannot attack even if they are in your range.
 
 Distance Penalty: For every 1x the weapon's range unit that the target's distance exceeds, the Attack Check suffers a -2 DP penalty. Your maximum throwing attack distance is 1x range unit * STR: you might be able to throw farther, but cannot make a meaningful attack.
@@ -175,7 +176,7 @@ You can only aim at enemies within a maximum of 3 range units and within your Bl
 When you attack your aimmed enemy, you gain +1DP Aiming Bonus and 1 point higher on Max DMG. If you do any other Standard Action or Movement Action before attacking, or if you are hit by a melee attack, you lose your aiming benefit.
 You may Aim for multiple rounds up to 5 times.
 
-### **__Defensive Actions__**
+### **<u>Defensive Actions</u>**
 
 **Full Defense**
 This is a Standard Action.
@@ -223,7 +224,7 @@ Different objects provides different amount of coverage.
 | Heavy Cover | -4DP Environment Penalty |
 | Full Cover | No attack allowed! |
 
-### **__Auxiliary Actions__**
+### **<u>Auxiliary Actions</u>**
 
 **Take out an item**
 Depends on where the item is placed.
@@ -246,10 +247,60 @@ The following actions are all default actions unless otherwise specify.
 - To fully load a single-shot firearm requires a Movement Action; After this, before each attack, you need to use a Swift action to manually chamber 1 round of ammunition before it can be used for an attack.
 
 **Proning**
-Proning is a Reflex Action. After which the character is considered to be in a Prone state. (See Debuffs)
+Proning is a Reflex Action. After which the character is considered to be in a Prone state. (See [[Debuffs]])
 
 **Get up from Proning**
 This is a Movement Action.
 
-### **Special Attack Actions**
+### **<u>Special Attack Actions</u>**
 These actions replaces the default directly attack action. Unless specified, you may not use any abilities while doing any of the following actions.
+
+**Tripping**
+Tripping is an attack action that causes loss of balance.
+You make a melee attack with your born weapon. This attack does not cause damage. If you hit, the target makes a DEX + Athletics(Balance) or STR + Athletics(Balance) R. Check. If you win, the target falls prone. 
+If the target is flying, their Maneuverability decreases by 1 level; if they originally had Clumsy Maneuverability, they fall immediately; if their original Maneuverability was perfect or hovering, they are not affected. At the same time, the target gains Stagger debuff points equal to the difference between the two checks. The decreased Maneuverability and Stagger points last for 1 round. 
+In this attack, for each point of size the target is larger than you, you suffer a 1 DP Unnamed Penalty. (For Stagger points, see [[Debuffs]])
+Some blade weapons can be used for tripping attacks; these blade weapons generally have specific instructions
+
+**Colliding**
+WIP
+
+**Breakthrough**
+WIP
+
+**Fakeout**
+WIP
+
+**Grapple**
+WIP
+
+**Suppress**
+WIP
+
+**Bundle**
+WIP
+
+**Throwing your target**
+WIP
+
+**Attack specific body part**
+WIP
+
+**Lethal Attack**
+WIP
+
+**Support**
+WIP
+
+### **Other Rules**
+
+**Preserving your rolls**
+WIP
+
+攻擊類型
+
+一般資源中帶有“攻擊”字眼的行動皆為攻擊，一般分為以下類型：近戰攻擊、遠程攻擊、施法攻擊。細分還可以分為近戰肉搏攻擊，遠程肉搏攻擊，近戰白刃攻擊，遠程白刃攻擊，槍械射擊，弓箭射擊，槍械近戰攻擊，施法遠程攻擊，施法近戰攻擊等等。
+
+這種情況下，針對“攻擊”帶有的效果，全部正常生效。
+
+如：攻擊檢定獲得6DP增強加值，則所有帶有“攻擊”字眼的行動全部獲得對應的加值。

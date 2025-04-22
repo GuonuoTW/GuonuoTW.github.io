@@ -1,0 +1,11 @@
+{
+  "title": "Prologue",
+  "folders": [],
+  "files": [
+    {
+      "title": "Main rules",
+      "name": "main.md"
+    }
+  ],
+  "mainFile": "context.md"
+}

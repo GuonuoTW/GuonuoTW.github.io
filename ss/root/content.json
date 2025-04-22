@@ -1,8 +1,10 @@
 {
   "title": "Root",
   "folders": [
+    "Prologue",
     "Rules",
-    "Resources"
+    "Resources",
+    "Unused"
   ],
   "files": [
     {

@@ -1,61 +1,61 @@
 # A Collection of Terminologies
 Use [WORD] to search.
 
-**[]** <br>
+**[]**
 
 ### General
 
-**[Unless Specified]** <br>
+**[Unless Specified] [Unless Otherwise Specify]**
 Means unless an equipment, enhancement, or other causes that change the following statement.
 
 ### The Basics
 
-**[Check] [Checks]** <br>
+**[Check] [Checks]**
 
-**[Opp. Roll]** <br>
+**[Opp. Roll]**
 Opportunity Roll
 
-**[DP]** <br>
+**[DP]**
 Dice Pool
 
-**[AS]** <br>
+**[AS]**
 Additional Success
 
-**[DC]** <br>
+**[DC]**
 Difficulty Class
 
-**[GM] [ST]** <br>
+**[GM] [ST]**
 Game Master / Story Teller
 
-**[PC]** <br>
+**[PC]**
 Player Character
 
-**[Enhancement]** <br>
+**[Enhancement]**
 Expertise, Bloodline, Tome, Alternation, Tags, and Badges.
 
-**[Ability]** <br>
+**[Ability]**
 A concept - Could be a skill, spell, action, item usage...
 
-**[Bonus]** **[Penalty]** <br>
+**[Bonus]** **[Penalty]**
 Bonus and Penalty are adjustments to your DP, adding or subtracting dices from it.
 (See Glossary/Bonus & Penalty)
 
 ### Battles
 
-**[HP]** <br>
+**[HP]**
 Health Points
 
-**[Recover] [Recovery]** <br>
+**[Recover] [Recovery]**
 
-**[Short Rest]** <br>
+**[Short Rest]**
 A rest that last at least 15 minutes. You may not do any extra actions during the rest.
 
-**[Long Rest]** <br>
+**[Long Rest]**
 A rest that last at least 8 hours. You may not do any extra actions during the rest. (That is to say, a Long Rest is often slept through.)
 
-**[Extended Actions]** <br>
+**[Extended Actions]**
 
 
 
 ### Debuff
-**[Debuff Saving]** <br>
+**[Debuff Saving]**

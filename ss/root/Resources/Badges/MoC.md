@@ -1,6 +1,5 @@
 # Mark of Communication
-
+**Category:** Eldritch
+**Requirement:** None
+**Price:**
 **Description:**
-
-
-**Effect:**   Allow you to read and understand all Speaking Languages. (Excluding Cryptic, Encryptic languages)
