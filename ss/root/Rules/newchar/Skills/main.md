@@ -16,7 +16,7 @@ Skills and their Profession are denoted this way:
 **Mental Skills:** Academics, Computer, Crafts**, Investigation, Medicine, Occult, Politics, Science.
 **Social Skills:** Animal Ken, Empathy, Expression**, Intimidation, Socialize, Subterfuge.
 
-**Crafts and Expression is not a skills, but a group of skill condensed together. Craft may have many subcategory like "Craft-Cooking" and "Craft-Smithing" Being completely different skills. Talk to ST for the Professions you want.
+**Crafts and Expression is not a skill, but a group of skill condensed together. Craft may have many subcategory like "Craft-Cooking" and "Craft-Smithing" Being completely different skills. Talk to ST for the Professions you want.
 
 ## Penalty of Having 0 Level on Skills
 **Physical Skills:** Physical Skills are not purely skill, as you do not need the knowledge to execute them. You may still attempt to Check with -1 AS.
@@ -29,7 +29,8 @@ Skills range from 0~15.
 
 When you reach Level <u>5, 10, 11, 13, 15</u>, you get an AS on the corresponding Skill, with maximum of 5 AS in total. You may spend **(Current Level-1)×2 XP** to level up. However, Learning a new Skill (From level 0 to level 1) costs 3 XP.
 
-經驗減免：隨著技能等級的提升，玩家可以無師自通的習得某些能力和技巧。這表現為當玩家的技能等級在達到6,9,12,14時分別可以選擇一個前提條件包括該技能的專長或基于該技能使用的自創技能，在學習該專長或自創該技能時減少12/24/39/54點“經驗值”的消耗，最低將消耗降低為0。
+## XP Reduction by leveling up your skill
+Leveling up your skill lead to you understanding new abilities or tricks without learning it. On level <u>6, 9, 12, 14</u>, you may learn a new ability with the corresponding skill being the requirement with a XP cost down of 12 / 24 / 39 / 54. See [[**Self-Studying**]] for more info.
 
 # Profession
 Skill is a group of Professions. Profession directly represents the task under the skill.
@@ -40,7 +41,7 @@ Remark: Skills and their Profession are denoted this way: "Skill-Name (Professio
 
 ## No Profession Penalty
 If you have the Skill but not the required Profession in a Check, **You need to halve your Skill level in Checks, Rounding down.**
-*Ex: You might be good at running, but not swimming.*
+*Both running and swimming belongs in Athletics. You might be good at running, but not swimming.*
 
 ## Sub-Skills
 Some skills might have specialized sub-category (Craft and Expression). They are denoted as " Skill-"Sub-Skill" ". These Sub-Skills have their own level, you should note them inside the Profession as well. 
