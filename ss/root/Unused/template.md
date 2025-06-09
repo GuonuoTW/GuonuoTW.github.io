@@ -21,7 +21,7 @@ S級：基礎4特性（不建議開放S級稱號）
 
 格式：
 # Name
-**Category:** Fantasy/Sci-fi/Eldritch
+**Category:** Fantasy/Sci-fi/Eldritch/Natural
 **Requirements:** ?
 **Price:** ?
 **Description:** ?

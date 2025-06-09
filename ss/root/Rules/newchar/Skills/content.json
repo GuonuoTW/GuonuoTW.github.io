@@ -5,6 +5,10 @@
         {
             "title": "Physical Skills",
             "name": "physicalskills.md"
+        },
+        {
+            "title": "Mental Skills",
+            "name": "mentalskills.md"
         }
     ],
     "mainFile": "main.md"

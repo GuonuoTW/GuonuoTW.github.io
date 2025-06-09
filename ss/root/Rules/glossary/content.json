@@ -9,6 +9,14 @@
     {
       "title": "Bonus & Penalty",
       "name": "bonus.md"
+    },
+    {
+      "title": "Inscriptions",
+      "name": "inscription.md"
+    },
+    {
+      "title": "Categories",
+      "name": "category.md"
     }
   ],
   "mainFile": "context.md"

@@ -71,26 +71,92 @@ WIP
 ## Brawl
 Fight with empty hands, Kung-fu and more.
 
+**Barehand Attacks:**
+STR + Brawl(Hand)
+
+STR + Brawl(Legs)
+
+**Born Weapon Attacks:**
+*ex: STR + Brawl(Teeth), STR + Brawl(Wings)...*
+
 ---
 
 ## Drives
+WIP
 
 ---
 
 ## Firearms
+From pistols to heavy machine guns, the ability to fix or use them.
+
+**Gun Attacks**
+*ex: AGI + Firearms(Pistol), AGI + Firearms(Rifles)...*
+
+**Aiming**
+WIP
+
+**Guarding with Firearms**
+This is a Defense Action and does not require a Check.
+Normally, this profession is useless as Guarding uses your Weaponary skill. If any ability allows you to "Guard with Firearms", this profession gives you 1 additional Guard Defense.
 
 ---
 
 ## Larceny
+Disarming security system, Lockpicking, Pocket-picking...
+
+**Lockpicking**
+INT + Larceny(Lockpicking)
+WIP
+
+**Pocketpicking**
+INT + Larceny(Pocketpicking)
+WIP
+
+**Hiding Items**
+INT + Larceny(Hiding Items)
+
+**Binding**
+WIP
 
 ---
 
 ## Stealth
+Move, track, hide without being seen.
+
+**Hiding**
+AGI + Stealth(Hiding)
+
+**Sneaking**
+AGI + Stealth(Sneaking)
+
 
 ---
 
 ## Survival
 
+**Surviving in the wild**
+PCT + Survival(Wilderness Survival)
+WIP
+
+**Fortitude	Saving Throw**
+EDR + Survival(Self Protect)
+WIP
+
+**Tracking**
+PCT + Survival(Tracking)
+WIP
+
 ---
 
 ## Weaponary
+From swords to stick, gun, spears
+
+**Bladed Attacks**
+*ex: STR + Weaponary(Longsword), STR + Weaponary(Fan)...*
+
+**Attacking Specific Bodypart**
+WIP
+
+**Weaponary Guard**
+This is a defense action, no check required.
+This profession provides you +1 Guard Defense when you "Guard with Weaponary".
