@@ -2,10 +2,7 @@
   "title": "Spellcaster",
   "folders": [],
   "files": [
-    {
-      "title": "TEMP",
-      "name": "temp.md"
-    }
+    {"title": "TEMP", "name": "temp.md"},{"title": "Priest", "name": "priest.md"}
   ],
   "mainFile": "context.md"
 }
