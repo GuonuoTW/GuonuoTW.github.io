@@ -19,20 +19,20 @@
 **Start of the battle**
 This is trigger through GM's announcement. 
 
-**Surprise Round / Assualt Round**
+**Surprise Round / Assault Round**
 You may perform 1 Standard Action/Swift Action/Movement Action, and unlimited amount of Free Actions. Enemies who aren't in Surprise Round would be in No Tier Surprised status.
-<u>Special Rule:</u> Despite being a Full-Turn Action, you may do a Charging Attack.
+<u>Special Rule:</u> Despite being a Full-Turn Action, you may perform a Charging Attack.
 
 **Initiative in Surprise Round**
 Everyone in Surprise Round rolls initiative to decide who goes first.
 
 # Battle Begins!
 **Initiative!**
-Everyone who has not roll initiative does it. This is done by rolling a 1d10+( Character's Initative). This is NOT a check.
+Everyone who has not rolled initiative by now does so. This is done by rolling a 1d10+( Character's Initiative). This is NOT a check.
 
 **It's My turn!**
 The action economy in Space Shard goes like this:
-On your turn, you get 1 of each action of the following: a Swift Action, a Movement Action, a Standard Action, and Unlimited amount of Free Action. There are more actions than these, see [[Concept of Time & Actions]] for more info.
+On your turn, you get 1 of each action of the following: a Swift Action, a Movement Action, a Standard Action, and Unlimited amount of Free Actions. There are more actions than these; see [[Concept of Time & Actions]] for more info.
 
 Downgrading an action:
 You may downgrade actions to have more of another action. (Whole-Round Actions > Full-turn Actions > Standard Actions > Movement Action > Swift Action)
@@ -40,27 +40,27 @@ You may downgrade actions to have more of another action. (Whole-Round Actions >
 
 **Free Actions Examples**
 Speaking, pulling a gun bolt, cocking a hammer, etc., are free actions unless they have special usage.
-Pushing or kicking away effortless obstacles while moving (such as an empty cardboard box blocking the path) is a Free Action. Something that appears as though it could be kicked away but is actually very heavy might cause injury to the character (for example, kicking an empty cardboard box with hidden metal block inside.)
+Pushing or kicking away effortless obstacles while moving (such as an empty cardboard box blocking the path) is a Free Action. Something that appears as though it could be kicked away but is actually very heavy might cause injury to the character, but may still be used as a free action. (for example, kicking an empty cardboard box with a hidden metal block inside.)
 
 **Swift Actions Examples**
 Pulling the bolt of a bolt-action rifle, or similar actions. Taking out a small item stored in an easily accessible place, for example, a test tube inserted in the front chest pocket of a shirt, or drawing a dart from a dart pouch.
 
 **Movement Actions Examples**
-Perform one movement. The distance can be up to your Speed.
+Perform one movement. The distance is dependent on your Speed (unless the movement involves a vehicle).
 Control a vehicle or ride a mount under normal conditions.
-Jump or climb a distance. Depending on the situation, short jumps and climbing low heights can be part of a single movement. This also includes some elaborated stunts, such as jumping to grab a chandelier to swing across a table.
-Draw a weapon from its sheath. Take down a bow worn on your back. Take items from a pocket.
-Change the magazine of an automatic pistol. Load a bullet into a single-shot rifle. Use a speed loader for a revolver. Load an arrow into a light crossbow. String a light crossbow.
-Open a closed door.
-Take a sip of water (or other liquid). Eat a bite of easily chewable food or a small amount of medicine.
-Pick up an item.
-Guard. (See Below)
+Jumping or climbing a certain distance. Depending on the situation, short jumps and climbing low heights can be part of one single movement. This may also include some elaborate stunts, such as jumping to grab a chandelier to swing across a room.
+Drawing a weapon from its sheath. Equipping a bow worn on your back. Taking items from a pocket.
+Changing the magazine of an automatic pistol. Loading a bullet into a single-shot rifle. Using a speed loader for a revolver. Loading an arrow into a light crossbow. Stringing a light crossbow.
+Opening a closed door.
+Taking a sip of water (or other liquid). Eating a bite of easily chewable food or taking a small amount of medicine.
+Picking up an item.
+Guarding. (See Below)
 
 **Standard Actions Examples**
-Perform a Melee or ranged attack, including bare-handed, weapons, throwing, archery, shooting, etc., are all Standard Actions.
-Take out an item from a pouch.
-Cast spells or use special abilities, unless specified, are standard actions.
-Put away a weapon. (This refers to properly storing a weapon. Releasing your hands and letting the weapon drop to the ground is a free action)
+Performing a Melee or ranged attack. Actions that fall under this, including bare-handed attacks, usage of weaponry, throwing, archery, shooting, etc., are all Standard Actions.
+Taking out an item from a pouch.
+Casting spells or using special abilities, unless specified, are standard actions.
+Putting away a weapon. (This refers to properly storing a weapon. Releasing your hands and letting the weapon drop to the ground is a free action)
 
 For more types of actions and their details, see [[Concept of Time & Actions]] 
 
@@ -83,12 +83,13 @@ For weapons with multiple special effects, when causing damage only once under n
 When damage is caused by multiple ammunition with different effects or similar situations, if even one piece of ammunition among the multiple pieces has no special effect, then this damage has no special effects whatsoever. If each piece has a special effect, and they are all different, then the ST chooses one to take effect.
 
 **Max DMG**
-Any resource with wording "Extra DMG" is not taken into account of Max DMG
+Any resource with wording "Extra DMG" is not taken into account of Max DMG.
 
 **DMG Exceeds/Overflow**
-When a character receives damage exceeding what their current HP can take, the excess damage is not calculated, but the exceeding situation is noted.
+When a character receives damage exceeding their current HP value, the excess damage is not calculated, but the exceeding situation is noted.
 *ex: A character has 2 HP(H) remaining and takes 5 DMG(L). When calculating health points, the character now has 2 HP(A), without calculating the 1 point of overflow damage, but the overflow damage situation is confirmed.
-In some cases where resources have special instructions, overflow damage will be calculated.
+In some cases where resources have special instructions regarding damage overflow, this overflow damage will be included in the calculation.
+*ex. If a character has an ability where overflow damage taken is redirected back to the attacker.
 
 Here are the types of attacks you may deliver.
 Each success from the attack causes 1 point of damage.
@@ -99,17 +100,17 @@ Base "Reach" : Born Weapon Size/2 (minimum 1) + Blade Weapon Size/3
 This is a Standard Action.
 Roll DP = STR + Brawl Skill + Born Weapon Damage - Target Defense ± Modifiers.
 Max DMG = STR + Brawl + Born Weapon Damage.
-Ordinary human bodies can only cause DMG(B); Learning specific abilities, and gaining special enhancements, using knuckles, or possessing other Born Weapons may cause DMG(L). 
-Size of your Fist, Feat, Claws is your Size/5.
+Ordinary human bodies can only cause DMG(B); Learning specific abilities, gaining special enhancements, using knuckles, or using other Born Weapons may cause DMG(L). 
+Size of your Fist, Feet, Claws is your Size/5.
 Size of your tail is your Size/3.
 
-**Bladed Attack:** Make a melee ordinary physical attack with blades.
+**Bladed/Weaponary Attack:** Make a melee ordinary physical attack with blades.
 This is a Standard Action.
 Roll DP = STR + Blade Skill + Blade Weapon Damage - Target Defense ± Modifiers, each success causing 1 point of damage.
 Max DMG = STR + Blade Skill + Blade Weapon Damage.
 Most Blades cause DMG(L), with some exceptions like sandbags, which causes DMG(B);
 Most weapons have a requirement to use, generally Stats, Skills, or Professions.
-If it's Stats or Skills, each point below the required value is "-2DP Machinary Bonus", up to 3 points below. In that case, you may not use the weapon
+If it's Stats or Skills, each point below the required value is "-2DP Machinery Bonus", up to 3 points below. If your value is lower than 3 points below the required value, you may not use the weapon.
 If it's Profession, see [[No Profession Penalty]].
 
 **Full-Force Attack:** Does higher damage at the cost of your defense.
@@ -122,8 +123,8 @@ This is a Full-Turn Action, You spend a Movement Action to move in front of the 
 Calculate the distance you moved to reach the enemy: for every meter, you gain "+1DP Enhancement Bonus" to your attack roll, and your Base Defense loses 1 point.
 This bonus may not exceed your Strength, nor can it decrease your Base Defense below 0. Your Speed limits how far you can charge.
 When Charging, you must have a straight, clean path towards your enemy. Which means:
-- You need to be able to move to the closest place where you can deliver your attack, and this place is not blocked or has any obstacle (沒有困難地形)
-- There is no other Characters, Enemies, Crates, Terrain that hinders your movement.
+- You need to be able to move to the closest place where you can deliver your attack, given that place is not blocked or has any obstacle. (沒有困難地形)
+- There are no other Characters, Enemies, Crates, Terrain in the path that could hinder your movement.
 
 特殊：若角色擁有某些特殊能力可以讓你沖鋒只受到力量上限的影響，則此時你可以無視基礎防御的上限，超過基礎防御的部分變為無名防御減值。
 特殊：若角色擁有某些特殊能力可以讓角色不受到沖鋒減值，則此時角色進行沖鋒的最大DP上限，除非特殊說明，否則依然受到基礎防御和力量的影響。
@@ -131,14 +132,14 @@ When Charging, you must have a straight, clean path towards your enemy. Which me
 ### **<u>Ranged Attacks</u>**
 Note: If you do not have Line of Sight or the target is hidden, you cannot attack even if they are in your range.
 
-Distance Penalty: For every 1x the weapon's range unit that the target's distance exceeds, the Attack Check suffers a -2 DP penalty. Your maximum throwing attack distance is 1x range unit * STR: you might be able to throw farther, but cannot make a meaningful attack.
+Distance Penalty: For every 1x the weapon's range unit that the target's distance exceeds, the Attack Check suffers a -2 DP penalty. Your maximum throwing attack distance is 1x range unit * STR: you might be able to throw farther, but it's unlikely to do meaningful damage.
 
-**Throwing weapon:** Make a ranged ordinary physical attack with a throwing weapon
+**Throwing weapon:** Make a ranged ordinary physical attack with a throwing weapon.
 This is a Standard Action.
 Roll DP (Light Throwing Weapon or Throwing weapon)= DEX + Athletics + Weapon DMG - Target Defense - Distance Penalty ± Modifiers. 
 Roll DP (Heavy Throwing Weapon)= STR + Athletics + Weapon DMG - Target Defense - Distance Penalty ± Modifiers. 
 Max DMG = STR + Athletics + Weapon Damage.
-If you don't meet the minimum STR requirement for using the weapon, for each point your below your STR, you suffer a "-2 DP Machinary Penalty" on attacks. If lower by 3 points or more, you cannot use it. 
+If you don't meet the minimum STR requirement for using the weapon, then for each point your below your STR, you suffer a "-2 DP Machinery Penalty" on attacks. If lower by 3 points or more, you cannot use it. 
 Additionally, for each multiple of the weapon's range exceeded, you suffer an extra -2 DP Distance penalty.
 
 **Bow:** Make a ranged ordinary physical attack with a bow.
@@ -154,7 +155,7 @@ This is a Standard Action.
 Roll DP = DEX + Firearms + Weapon DMG - Target Defense - Distance penalty ± Modifiers.
 The maximum distance for a gun/crossbow attack is 5 times the gun/crossbow's range unit.
 Max DMG = Weapon DMG*2 + Firearms.
-These weapons gets "High Speed" Inscription on their attacks. (See Glossary/"Item Inscriptions")
+These weapons get "High Speed" Inscription on their attacks. (See Glossary/"Item Inscriptions")
 If the target being shot at is within 5 meters, they can ignore the "High Speed" Inscription.
 
 **Cannons:**
@@ -168,12 +169,12 @@ When using spells that cause damage, debuffs, and spells that take account of yo
 See "Casting a Spell" for more info.
 A pure Spellcasting Check is not an attack, so actions that can be performed when attacked are ineffective.
 However, actions that can be performed when taking damage can be used normally.
-Spellcasting checks cannot receive bonuses like "you gain xx bonus when making an attack.", but Attack with an Spellcasting Check can receive such bonus normally.
+Spellcasting checks cannot receive bonuses like "you gain xx bonus when making an attack.", but Attacks with a Spellcasting Check can receive such bonus normally.
 
 **Aiming:** 
 This is a Whole-round action.
 You can only aim at enemies within a maximum of 3 range units and within your Blurry Vision Range. No checks are needed, 
-When you attack your aimmed enemy, you gain +1DP Aiming Bonus and 1 point higher on Max DMG. If you do any other Standard Action or Movement Action before attacking, or if you are hit by a melee attack, you lose your aiming benefit.
+When you attack your aimed enemy, you gain +1DP Aiming Bonus and 1 point higher on Max DMG. If you do any other Standard Action or Movement Action before attacking, or if you are hit by a melee attack, you lose your aiming benefit.
 You may Aim for multiple rounds up to 5 times.
 
 ### **<u>Defensive Actions</u>**
@@ -186,16 +187,16 @@ To keep this effect you need Focusing (See "Concept of Time & Actions")
 
 **Guarding with Brawl**
 This is a Movement Action.
-Until your next turn, your defense gain Guarding Bonus equal to your Brawl skill.
+Until your next turn, your defense gains Guarding Bonus equal to your Brawl skill.
 If your born weapon has "Guarding" Inscription, you may add its size on Guarding Bonus. This is called Shielding.
 
-**Guarding with Blade**
+**Guarding with Weaponary**
 This is a Movement Action.
-Until your next turn, your defense gain Guarding Bonus equal to your Blade skill. You must have blade weapons to guard with this action.
+Until your next turn, your defense gain Guarding Bonus equal to your Weaponary skill. You must have weapons to guard with this action.
 If your weapon has "Guarding" Inscription, you may add its size on Guarding Bonus. This is called Shielding.
 
 **Finding Cover**
-You can move behind pillars, trees, etc. to hide front attacks, especially Range attacks.
+You can move behind pillars, trees, etc. to hide from frontal attacks, especially Ranged attacks.
 When attacked, draw a line between the attacker and the victim. If there's any obstacles, it's considered Covered. You are in "Covered defense" equal to (Covering object size - your size + 4) with maximum of 8. If the size of covering object is twice your size, you are considered "Fully Covered".
 
 Different objects provides different amount of coverage. 
@@ -226,30 +227,30 @@ Different objects provides different amount of coverage.
 
 ### **<u>Auxiliary Actions</u>**
 
-**Take out an item**
+**Taking out an item**
 Depends on where the item is placed.
 Drawing a normally carried melee or ranged weapon (such as a sword hanging at your waist or a gun in a holster) is a Movement Action.
 Taking out a small item from an easily accessible carrying container (including taking a communicator from your belt, retrieving a bullet or magazine from an ammunition belt, drawing an arrow from a quiver, or pulling a dart from a dart pouch) is a Swift action.
 Taking an item out of a backpack and putting the backpack back on requires a Whole-Round action.
 
 **Reloading**
-Most of the items requires Reloading or Spending Material to use
-The following descriptions are for the entire reload sequence, including take out ammos, detach the original empty magazine/battery etc.
-If ammos are already in hand, downgrade the following action levels, with minimum being Free Action
-If ammos are in any storage, then take it out of the storage, then follow the above description.
+Most of the items requires Reloading or Spending Material to use.
+The following descriptions are for the entire reload sequence, including take out ammo, detach the original empty magazine/battery etc.
+If ammo is already in hand, downgrade the following action levels, with minimum being Free Actions.
+If ammo is in any storage, then take it out of the storage, then follow the above description.
 The following actions are all default actions unless otherwise specify.
 - Replacing a magazine for powder firearms or gauss firearms is a Movement Action. 
 - Connecting an ammunition belt to a weapon that uses ammunition belts is a Movement Action. 
 - Replacing one battery for an item is a Movement Action. 
 - Drawing an arrow and nocking it on the bow is a Swift Action. The action of drawing the bowstring is included in the Attack. 
 - Drawing a crossbow bolt and installing it on the crossbow is a Movement Action; After this, you need to use a Movement action to string the crossbow before it can be used for an attack. 
-- To load 1 round of ammunition into a pistol with the "revolver" property, or a speed loader, requires a Movement Action, or you can spend a Whole-Round Action to fully load it. Using a speed loader to load ammunition into a revolver requires a Movement Action. 
-- To fully load a single-shot firearm requires a Movement Action; After this, before each attack, you need to use a Swift action to manually chamber 1 round of ammunition before it can be used for an attack.
+- Loading a round of ammunition into a pistol with the "revolver" property, or a speed loader, requires a Movement Action, or you can spend a Whole-Round Action to fully load it. Using a speed loader to load ammunition into a revolver requires a Movement Action. 
+- Fully loading a single-shot firearm requires a Movement Action; After this, before each attack, you need to use a Swift action to manually chamber 1 round of ammunition before it can be used for an attack.
 
 **Proning**
-Proning is a Reflex Action. After which the character is considered to be in a Prone state. (See [[Debuffs]])
+Proning is a Reflex Action. After which the character is considered to be in a Prone state. (See [[Negative Status]])
 
-**Get up from Proning**
+**Getting up from a Prone state**
 This is a Movement Action.
 
 ### **<u>Special Attack Actions</u>**
@@ -258,9 +259,9 @@ These actions replaces the default directly attack action. Unless specified, you
 **Tripping**
 Tripping is an attack action that causes loss of balance.
 You make a melee attack with your born weapon. This attack does not cause damage. If you hit, the target makes a DEX + Athletics(Balance) or STR + Athletics(Balance) R. Check. If you win, the target falls prone. 
-If the target is flying, their Maneuverability decreases by 1 level; if they originally had Clumsy Maneuverability, they fall immediately; if their original Maneuverability was perfect or hovering, they are not affected. At the same time, the target gains Stagger debuff points equal to the difference between the two checks. The decreased Maneuverability and Stagger points last for 1 round. 
+If the target is flying, their Maneuverability decreases by 1 level; if they originally had Clumsy Maneuverability, they fall immediately; if their original Maneuverability was perfect or hovering, they are not affected. At the same time, the target gains Stagger points equal to the difference between the two checks. The decreased Maneuverability and Stagger points last for 1 round. 
 In this attack, for each point of size the target is larger than you, you suffer a 1 DP Unnamed Penalty. (For Stagger points, see [[Debuffs]])
-Some blade weapons can be used for tripping attacks; these blade weapons generally have specific instructions
+Some blade weapons can be used for tripping attacks; these blade weapons generally have specific instructions.
 
 **Colliding**
 WIP

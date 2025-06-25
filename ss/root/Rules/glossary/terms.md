@@ -57,5 +57,12 @@ A rest that last at least 8 hours. You may not do any extra actions during the r
 
 
 
-### Debuff
-**[Debuff Saving]**
+### Negative Status
+**[Negative Status Saving]**
+
+
+
+
+
+### Flying
+**[Mobility]**

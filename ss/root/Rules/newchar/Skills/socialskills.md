@@ -40,6 +40,7 @@ You may detect one's emotional state, eg. scared, horrified, sad. DC equals 3.
 You may also use "Read the room" Check against target's "Bluff" Check.
 
 This is an one-time only check.
+
 ---
 
 ## Expression

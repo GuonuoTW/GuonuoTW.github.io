@@ -9,6 +9,10 @@
         {
             "title": "Mental Skills",
             "name": "mentalskills.md"
+        },
+        {
+            "title": "Social Skills",
+            "name": "socialskills.md"
         }
     ],
     "mainFile": "main.md"
