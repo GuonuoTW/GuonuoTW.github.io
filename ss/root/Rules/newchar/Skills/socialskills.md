@@ -40,7 +40,6 @@ You may detect one's emotional state, eg. scared, horrified, sad. DC equals 3.
 You may also use "Read the room" Check against target's "Bluff" Check.
 
 This is an one-time only check.
-
 ---
 
 ## Expression
@@ -83,7 +82,7 @@ Action: You need to interact with your target for at least a minute, Sometimes l
 
 You roll a CTR + Intimidation(Intimidating) Check, and target resists with "Stand Firm" Check. You need to have the ability to intimidate before this (ex. a gun, a hostage...)
 
-If the target has Fear points at you, you may perform a intimidating check with extra AS equal to their Fear points.
+If the target has Fear points towards you, you may perform a intimidating check with extra AS equal to their Fear points.
 
 **Roar**
 Roar: STR + Intimidation(Roar)
@@ -97,15 +96,75 @@ If the target has "Stand Firm' Profession, then the amount occured by this effec
 ---
 
 ## Socialize
+Trade, Convince, Speak and more....
 
 **Negotiation**
 Negotiation: CTR + Socialize(Negotiation)
 This allows you to change others' opinion towards you, with words.
 
-Action: You need to interact with the target for at least a minute, somtimes longer. You may perform the check hastily, with a -5DP Nameless Penalty
+Action: You need to interact with the target for at least a minute, somtimes longer. You may perform the check hastily, with -5DP Nameless Penalty.
 
+You roll a CTR + Socialize(Negotiation) Check, and target resists with "Stand Firm" Check. Even though it's a resist, DC may change due to alignments, belief...
+
+Under normal circumstances, you may only perform this once.
+
+**Persuasion**
+Persuasion: CTR + Socialize(Persuasion)
+Through talking, try to convince others' opinions of something.
+
+Action: You need to interact with the target for at least a minute, somtimes longer. You may perform the check hastily, with -5DP Nameless Penalty.
+
+You can only perform it on a single target. You need to tell your "claim" (ex. Put down the weapon, Surrender...).  Target resists with "Stand Firm" Check.
+
+For every Allure point the target has towards you, you gain +1DP Nameless Bonus.
+
+Note: Your claim has to be reasonable, and benefit the target's side in some way. You can not persuade someone to do ____ things (ex. Suicide, Give you all their money...).
+
+**Information Collecting**
+Info Collecting : CTR + Socialize (Info Collecting)
+This profession allow you to collect information, learn rumors, and spread misinformation.
+
+Action: A generic Info-Collecting check costs 1d4+1 hours.
+
+You may perform this check multiple times.
 
 
 ---
 
 ## Subterfuge
+Hide yourself, Lie to others....
+
+**Fakeout**
+Fakeout: INT + Subterfuge (Fakeout) 
+See [[How a battle goes]].
+
+**Bluffing**
+Bluffing: CTR + Subterfuge (Bluffing)
+This profession allows you to make false information sound true, providing you with the means to deceive others.
+
+Action: You need to interact with the target for at least a minute, somtimes longer. You may perform the check hastily, with -5DP Nameless Penalty.
+
+You roll a CTR + Subterfuge (Bluffing) Check, and target resists with "Read the room" Check.  If you win, your target may act according to your bluff.
+*ex. Bluff to someone that their house is on fire, and make them leave the current spot.*
+
+Your target must have INT to at least understand you - That is, wild animals and entity without intelligence fail automatically.
+
+**Disguise**
+Disguise: INT/CTR + Subterfuge (Disguise)
+To change your appearance. Note that camouflage and disguise are two different professions.
+
+Action: a disguise last for about 1d6*10 minutes.
+
+Characters may disguise as a certain person, and you may perform this action on others or yourself.
+Perform a INT/CTR + Subterfuge (Disguise) check and record the success count. During your disguise duration, any target that notices you will resist against this number - they perform a PCT + Empathy (Read the room) or PCT + Investigation(Scouting). 
+*ex. You disguise as a commander, and when you enter a gate with guards, if they have seen the commander before, they will perform the check; Otherwise, they resist against Camouflage instead.*
+
+**Camouflage**
+Camouflage: INT/CTR + Subterfuge (Camouflage)
+To blending into the surrounding instead of a certain person. Note that camouflage and disguise are two different professions.
+
+Action: a camouflage last for about 1d2*10 minutes.
+
+During the camouflage, all targets who notices you AND questions your identity may resist. They perform PCT + Empathy(Read the room) or PCT + Investigation(Scouting) Check.  
+
+Generally, you would perform both Camouflage and Disguise at once. Targets may perform both Checks, if they success in one of them, they see throught your camouflage or disguise.

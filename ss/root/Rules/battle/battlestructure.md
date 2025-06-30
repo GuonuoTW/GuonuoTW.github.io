@@ -123,11 +123,10 @@ This is a Full-Turn Action, You spend a Movement Action to move in front of the 
 Calculate the distance you moved to reach the enemy: for every meter, you gain "+1DP Enhancement Bonus" to your attack roll, and your Base Defense loses 1 point.
 This bonus may not exceed your Strength, nor can it decrease your Base Defense below 0. Your Speed limits how far you can charge.
 When Charging, you must have a straight, clean path towards your enemy. Which means:
-- You need to be able to move to the closest place where you can deliver your attack, given that place is not blocked or has any obstacle. (沒有困難地形)
+- You need to be able to move to the closest place where you can deliver your attack, given that place is not blocked, has any obstacle, and is not Difficult Terrain. 
 - There are no other Characters, Enemies, Crates, Terrain in the path that could hinder your movement.
 
-特殊：若角色擁有某些特殊能力可以讓你沖鋒只受到力量上限的影響，則此時你可以無視基礎防御的上限，超過基礎防御的部分變為無名防御減值。
-特殊：若角色擁有某些特殊能力可以讓角色不受到沖鋒減值，則此時角色進行沖鋒的最大DP上限，除非特殊說明，否則依然受到基礎防御和力量的影響。
+Note: In Assualt Round, you may use a Standard Action to perform a Charge Attack, but the maximum moving distance is half your speed.
 
 ### **<u>Ranged Attacks</u>**
 Note: If you do not have Line of Sight or the target is hidden, you cannot attack even if they are in your range.
@@ -263,7 +262,7 @@ If the target is flying, their Maneuverability decreases by 1 level; if they ori
 In this attack, for each point of size the target is larger than you, you suffer a 1 DP Unnamed Penalty. (For Stagger points, see [[Debuffs]])
 Some blade weapons can be used for tripping attacks; these blade weapons generally have specific instructions.
 
-**Colliding**
+**Collide**
 WIP
 
 **Breakthrough**
@@ -284,7 +283,7 @@ WIP
 **Throwing your target**
 WIP
 
-**Attack specific body part**
+**Attack specific Bodypart**
 WIP
 
 **Lethal Attack**
