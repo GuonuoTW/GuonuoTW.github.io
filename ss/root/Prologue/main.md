@@ -31,10 +31,10 @@ And, If you somehow got negative, or have 0DP to roll, You can do an Opp. Roll a
 **Opp. Roll is NOT a Check.**
 
 ## Using your AS
-AS exists to make your possibly successful rolls even better! That means you have to be successful at a roll (Have at least 1 Success on DP) in order to add your AS on top of it.
+AS exists to make your possibly successful rolls even better! That means you have to be successful at a roll (Have at least 1 success count) in order to add your AS on top of it.
 
 ## + Dice
-Normally, By default you have "10+ Dice", which means if you roll a 10 you get to roll 1 extra dice. Sometimes you might get "9+ Dice" or "8+ Dice", which work the same way - you get the extra dice bonus when you roll greater or equal to your + Dice level.
+By default you have "10+ Dice", which means if you roll a 10 you, get to roll 1 extra dice. Sometimes you might get "9+ Dice" or "8+ Dice", which work the same way - you get the extra dice bonus when you roll greater or equal to your + Dice level.
 
 ## Mathematical Stuff
 For cases where only whole numbers are used, numbers with floating point digits are rounded down.

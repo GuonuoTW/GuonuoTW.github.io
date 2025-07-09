@@ -1,7 +1,8 @@
 {
   "title": "Making your character",
   "folders": [
-    "Skills"
+    "Skills",
+    "Feats"
   ],
   "files": [
     {
@@ -15,6 +16,10 @@
     {
       "title": "Step 3. Skills",
       "name": "skills.md"
+    },
+    {
+      "title": "Step 4. Feats",
+      "name": "feats.md"
     },
     {
       "title": "Virtue, Sin, Morality",
