@@ -62,7 +62,7 @@ Some spells allow user to Amplify it. Some spells allow user to Research deeper 
 You can upgrade a spell by spending "Current level^2" XP, Unless Otherwise Specified. (D -> C -> B -> A -> S)
 
 ## **Casting Professions**
-- Prophecy: Seeing Informations.
+- Prophecy
 - Incantation/Cast:
 - Evocation
 - Necromancy
