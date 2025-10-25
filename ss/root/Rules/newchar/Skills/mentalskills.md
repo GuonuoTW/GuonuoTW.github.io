@@ -77,14 +77,20 @@ Search for clues, hidden treasure, secret room or any "hidden" things.
 
 **Listening**
 Listening: INT + Investigation(Listening)
+<<<<<<< HEAD
 Notice footsteps, eavesdropping, and any fainted sound.
 
 **Scouting**
 Scouting: INT + Investigation(Scouting)
 Scout for enemies, hidden targets, monsters in the shadow, see through camouflage or disguise.
+=======
+
+**Scouting**
+Scouting: INT + Investigation(Scouting)
+>>>>>>> parent of 4f3f0b1 (Scout/Locate page done)
 
 **Lipreading**
-Lipreading: PCT + Investigation(Lipreading)
+Lipreading: INT + Investigation(Lipreading)
 This allows you to understand the conversation without hearing.
 
 Action: You must Focus for a minute, then perform a Lipreading Check.
