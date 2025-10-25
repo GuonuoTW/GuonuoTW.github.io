@@ -30,21 +30,21 @@ Performance Bonus:
 
 Move Bonus:
 
-Initial Defense Bouse: 基礎防御
+Base Defense Bonus:
 
-閃避 Evade
+Evade Bonus
 
-天生防御
+Born Defense Bonus:
 
-盔甲防御
+Armor Defense Bonus:
 
-盾牌防御
+Shield Defense Bonus:
 
-格擋 Guarding
+Guarding Bonus:
 
-環境
+Environment Bonus:
 
-洞察 Insight
+Insight Bonus:
 
 Luck Bonus:
 

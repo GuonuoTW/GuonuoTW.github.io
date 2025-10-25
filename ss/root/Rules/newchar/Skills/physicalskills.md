@@ -180,7 +180,7 @@ If failure, and success count is less than half the DC, some consequences might 
 *ex. keyhole broken, trigger the trap...*
 
 **Stealth**
-AGI + Larceny(Stealth)
+AGI + Larceny(Stealing)
 
 Action: Standard Action. But you may choose to suffer 5DP Penalty to do a AGI + Larceny(Stealth) Check with a free action.
 
