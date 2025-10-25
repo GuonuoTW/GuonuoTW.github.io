@@ -76,7 +76,7 @@ Searching: INT + Investigation(Searching)
 Search for clues, hidden treasure, secret room or any "hidden" things.
 
 **Listening**
-Listening: PCT + Investigation(Listening)
+Listening: INT + Investigation(Listening)
 
 **Scouting**
 Scouting: INT + Investigation(Scouting)
