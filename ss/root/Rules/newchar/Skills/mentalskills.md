@@ -76,31 +76,7 @@ Searching: INT + Investigation(Searching)
 Search for clues, hidden treasure, secret room or any "hidden" things.
 
 **Listening**
-Listening: INT + Investigation(Listening)
-Notice footsteps, eavesdropping, and any fainted sound.
-
-**Scouting**
-Scouting: INT + Investigation(Scouting)
-Scout for enemies, hidden targets, monsters in the shadow, see through camouflage or disguise.
-
-**Lipreading**
-Lipreading: INT + Investigation(Lipreading)
-Lipreading: INT + Investigation(Lipreading)
-=======
-
-**Scouting**
-Scouting: INT + Investigation(Scouting)
-
-**Lipreading**
-Lipreading: INT + Investigation(Lipreading)
-=======
-
-**Scouting**
-Scouting: INT + Investigation(Scouting)
-
-**Lipreading**
-Lipreading: INT + Investigation(Lipreading)
-=======
+Listening: PCT + Investigation(Listening)
 
 **Scouting**
 Scouting: INT + Investigation(Scouting)
