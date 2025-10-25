@@ -77,7 +77,6 @@ Search for clues, hidden treasure, secret room or any "hidden" things.
 
 **Listening**
 Listening: INT + Investigation(Listening)
-<<<<<<< HEAD
 Notice footsteps, eavesdropping, and any fainted sound.
 
 **Scouting**
@@ -91,6 +90,13 @@ Scouting: INT + Investigation(Scouting)
 
 **Lipreading**
 Lipreading: INT + Investigation(Lipreading)
+Lipreading: INT + Investigation(Lipreading)
+=======
+
+**Scouting**
+Scouting: INT + Investigation(Scouting)
+
+**Lipreading**
 Lipreading: INT + Investigation(Lipreading)
 This allows you to understand the conversation without hearing.
 
