@@ -59,13 +59,13 @@ Searching: INT + Investigation(Searching)
 Search for clues, hidden treasure, secret room or any "hidden" things.
 
 **Listening**
-Listening: INT + Investigation(Listening)
+Listening: PCT + Investigation(Listening)
 
 **Scouting**
-Scouting: INT + Investigation(Scouting)
+Scouting: PCT + Investigation(Scouting)
 
 **Lipreading**
-Lipreading: INT + Investigation(Lipreading)
+Lipreading: PCT + Investigation(Lipreading)
 This allows you to understand the conversation without hearing.
 
 Action: You must Focus for a minute, then perform a Lipreading Check.

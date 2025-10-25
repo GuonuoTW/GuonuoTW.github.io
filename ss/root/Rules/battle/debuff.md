@@ -17,7 +17,7 @@ WIP
 The moment you are affected by any negative status, you may attempt to Resist it. This does not cost an action. Each Negative Status has its own resisting rules. Generally, The Saving Throw is <u>Lower of the Key Resisting Stats + Athletics(Self-Protect)</u>
 
 **Withstanding Negative Status**
-WIP, Unused rules
+WIP, Unused rules for now
 
 **Recovering of Negative Status Points**
 Each Negative Status with points has its own resisting rules written in its description. If it's not written, default to Negative Status Saving Throw.  A Short rest of 15 minutes gives you 1 Saving Throw attempt on 1 Negative Status Point
@@ -39,10 +39,15 @@ Creatures without metabolism are immune to Natural poison.
 Poisons generally have 4 ways of entering one's body: Breath, Consume, Touch, Wounds.
 
 **Possessed**
+Spirits, incorporeal beings, monsters, or creatures with similar abilities dwelling within a human body or object, thereby causing destructive effects.
+Unless specified, the Host and the Possessor are identified as the same entity. Any attack towards the possessor are aim towards the Host instead.
+Some possessor may only possess specific hosts. And most possessor only has one or a few effects.
 
+Generally, Each possessing ability will describe some way to dispel. Other than the described ways, you may use specific ability as well. If a resisting is needed, Unpossessor use the ability Check to resist against possessor's ability check. If it does not have one, do a Will Check. If unpossessor wins, Possessed effect is dispelled.
+All possessing ability will have {Possess} Keyword.
 
 **Illusion, Hallucination**
-
+Illusion is an effect caused by unreal or imaginary object, feeling, sight. Characters may 
 **Illness**
 
 **Cursed, Magic**
