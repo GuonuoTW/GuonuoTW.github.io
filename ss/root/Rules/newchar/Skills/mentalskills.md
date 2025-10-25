@@ -82,14 +82,16 @@ Notice footsteps, eavesdropping, and any fainted sound.
 **Scouting**
 Scouting: INT + Investigation(Scouting)
 Scout for enemies, hidden targets, monsters in the shadow, see through camouflage or disguise.
+
+**Lipreading**
+Lipreading: INT + Investigation(Lipreading)
+Lipreading: INT + Investigation(Lipreading)
 =======
 
 **Scouting**
 Scouting: INT + Investigation(Scouting)
->>>>>>> parent of 4f3f0b1 (Scout/Locate page done)
 
 **Lipreading**
-Lipreading: INT + Investigation(Lipreading)
 Lipreading: INT + Investigation(Lipreading)
 =======
 
