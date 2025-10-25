@@ -82,6 +82,7 @@ Action: You need to interact with your target for at least a minute, Sometimes l
 
 You roll a CTR + Intimidation(Intimidating) Check, and target resists with "Stand Firm" Check. You need to have the ability to intimidate before this (ex. a gun, a hostage...)
 
+If the target has Fear points at you, you may perform a intimidating check with extra AS equal to their Fear points.
 
 **Roar**
 Roar: STR + Intimidation(Roar)
