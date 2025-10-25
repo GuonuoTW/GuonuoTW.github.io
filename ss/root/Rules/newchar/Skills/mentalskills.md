@@ -100,6 +100,13 @@ Scouting: INT + Investigation(Scouting)
 
 **Lipreading**
 Lipreading: INT + Investigation(Lipreading)
+=======
+
+**Scouting**
+Scouting: INT + Investigation(Scouting)
+
+**Lipreading**
+Lipreading: INT + Investigation(Lipreading)
 This allows you to understand the conversation without hearing.
 
 Action: You must Focus for a minute, then perform a Lipreading Check.
