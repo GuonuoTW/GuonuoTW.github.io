@@ -101,13 +101,35 @@ If the target has "Stand Firm' Profession, then the amount occured by this effec
 Negotiation: CTR + Socialize(Negotiation)
 This allows you to change others' opinion towards you, with words.
 
-Action: You need to interact with the target for at least a minute, somtimes longer. You may perform the check hastily, with a -5DP Nameless Penalty
+Action: You need to interact with the target for at least a minute, somtimes longer. You may perform the check hastily, with -5DP Nameless Penalty.
 
+You roll a CTR + Socialize(Negotiation) Check, and target resists with "Stand Firm" Check. Even though it's a resist, DC may change due to alignments, belief...
+
+Under normal circumstances, you may only perform this once.
+
+**Persuasion**
+Persuasion: CTR + Socialize(Persuasion)
+Through talking, try to convince others' opinions of something.
+
+Action: You need to interact with the target for at least a minute, somtimes longer. You may perform the check hastily, with -5DP Nameless Penalty.
+
+You can only perform it on a single target. You need to tell your "claim" (ex. Put down the weapon, Surrender...).  Target resists with "Stand Firm" Check.
+
+For every Allure point the target has towards you, you gain +1DP Nameless Bonus.
+
+Note: Your claim has to be reasonable, and benefit the target's side in some way. You can not persuade someone to do ____ things (ex. Suicide, Give you all their money...).
+
+**Information Collecting**
+Info Collecting : CTR + Socialize (Info Collecting)
+This profession allow you to collect information, learn rumors, and spread misinformation.
+
+Action: A generic Info-Collecting check costs 1d4+1 hours.
+
+You may perform this check multiple times.
 
 
 ---
 
-<<<<<<< HEAD
 ## Subterfuge
 Hide yourself, Lie to others....
 
@@ -126,25 +148,18 @@ You roll a CTR + Subterfuge (Bluffing) Check, and target resists with "Read the 
 
 Your target must have INT to at least understand you - That is, wild animals and entity without intelligence fail automatically.
 
-**Disguise**
-Disguise: INT/CTR + Subterfuge (Disguise)
-To change your appearance. Note that camouflage and disguise are two different professions.
-
-Action: a disguise last for about 1d6*10 minutes.
-
-Characters may disguise as a certain person, and you may perform this action on others or yourself.
-Perform a INT/CTR + Subterfuge (Disguise) check and record the success count. During your disguise duration, any target that notices you will resist against this number - they perform a PCT + Empathy (Read the room) or PCT + Investigation(Scouting). 
-*ex. You disguise as a commander, and when you enter a gate with guards, if they have seen the commander before, they will perform the check; Otherwise, they resist against Camouflage instead.*
-
 **Camouflage**
 Camouflage: INT/CTR + Subterfuge (Camouflage)
-To blending into the surrounding instead of a certain person. Note that camouflage and disguise are two different professions.
+To change your appearance. Note that camouflage and disguise are two different professions.
 
-Action: a camouflage last for about 1d2*10 minutes.
+Action: a camouflage last for about 1d6*10 minutes.
 
-During the camouflage, all targets who notices you AND questions your identity may resist. They perform PCT + Empathy(Read the room) or PCT + Investigation(Scouting) Check.  
+Characters may disguise as a certain person, and you may perform this action on others or yourself.
+Perform a INT/CTR + Subterfuge (Camouflage) check and record the success count. During your camouflage duration, any target that notices you will resist against this number - they perform a PCT + Empath (Read the room) or PCT + Investigation(Scouting). 
+*ex. You disguise as a commander, and when you enter a gate with guards, if they have seen the commander before, they will perform the check; Otherwise, they resist against Disguise instead.*
 
-Generally, you would perform both Camouflage and Disguise at once. Targets may perform both Checks, if they success in one of them, they see throught your camouflage or disguise.
-=======
-## Subterfuge
->>>>>>> parent of 4f3f0b1 (Scout/Locate page done)
+**Disguise**
+Disguise: INT/CTR + Subterfuge (Disguise)
+To blending into the surrounding. Note that camouflage and disguise are two different professions.
+
+Action: a disguise last for about 1d2*10 minutes.
