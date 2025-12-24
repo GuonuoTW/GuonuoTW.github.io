@@ -109,4 +109,66 @@ Illusion is an effect caused by unreal or imaginary object, feeling, sight. Char
 
 **Disabled**
 
-# Negative Status with Points
+## Negative Status with Points
+
+**Freeze Points**
+Key Resisting Stats: STR, AGI
+
+**Deaf Points**
+Key Resisting Stats: EDR, PCT
+
+**Vertigo Points**
+Key Resisting Stats: EDR, PCT
+
+**Nausea Points**
+Key Resisting Stats: EDR, DTM
+
+**Crystalize Points**
+Key Resisting Stats: DTM, CMT
+
+**精神束縛點數**
+關鍵抵抗屬性：決心，沉著
+
+**Struggle Points**
+Key Resisting Stats: STR, AGI
+
+**Paralyze Points**
+Key Resisting Stats: EDR, DTM
+
+**Painful Points**
+Key Resisting Stats: EDR, DTM
+
+**Dizzy Points**
+Key Resisting Stats: EDR, DTM
+
+**Seduce Points**
+Key Resisting Stats: DTM, DMR
+
+**Fatigue Points**
+Key Resisting Stats: EDR, STR
+
+## 情緒異常 Emotional Distress
+
+**Emotional Distress - Depressed Points**
+Key Resisting Stats: DTM, CMT
+
+**Emotional Distress - Euphoric Points**
+Key Resisting Stats: DTM, CMT
+
+**Emotional Distress - Fear Points**
+Key Resisting Stats: DTM, CMT
+
+**Sleepiness Points**
+Key Resisting Stats: DTM, CMT
+
+**Handicap Points**
+Key Resisting Stats: STR, AGI, EDR
+
+**Stall Points**
+Key Resisting Stats: STR, AGI
+
+**Burn Points**
+Key Resisting Stats: AGI
+
+**Bleed Points**
+Key Resisting Stats: EDR

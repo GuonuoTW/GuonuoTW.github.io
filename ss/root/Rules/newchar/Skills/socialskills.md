@@ -40,6 +40,7 @@ You may detect one's emotional state, eg. scared, horrified, sad. DC equals 3.
 You may also use "Read the room" Check against target's "Bluff" Check.
 
 This is an one-time only check.
+
 ---
 
 ## Expression
@@ -150,18 +151,18 @@ You roll a CTR + Subterfuge (Bluffing) Check, and target resists with "Read the 
 
 Your target must have INT to at least understand you - That is, wild animals and entity without intelligence fail automatically.
 
-**Camouflage**
-Camouflage: INT/CTR + Subterfuge (Camouflage)
-To change your appearance. Note that camouflage and disguise are two different professions.
-
-Action: a camouflage last for about 1d6*10 minutes.
-
-Characters may disguise as a certain person, and you may perform this action on others or yourself.
-Perform a INT/CTR + Subterfuge (Camouflage) check and record the success count. During your camouflage duration, any target that notices you will resist against this number - they perform a PCT + Empath (Read the room) or PCT + Investigation(Scouting). 
-*ex. You disguise as a commander, and when you enter a gate with guards, if they have seen the commander before, they will perform the check; Otherwise, they resist against Disguise instead.*
-
 **Disguise**
 Disguise: INT/CTR + Subterfuge (Disguise)
+To change your appearance. Note that camouflage and disguise are two different professions.
+
+Action: a disguise last for about 1d6*10 minutes.
+
+Characters may disguise as a certain person, and you may perform this action on others or yourself.
+Perform a INT/CTR + Subterfuge (disguise) check and record the success count. During your disguise duration, any target that notices you will resist against this number - they perform a PCT + Empath (Read the room) or PCT + Investigation(Scouting). 
+*ex. You disguise as a commander, and when you enter a gate with guards, if they have seen the commander before, they will perform the check; Otherwise, they resist against Camouflage instead.*
+
+**Camouflage**
+Camouflage: INT/CTR + Subterfuge (Camouflage)
 To blending into the surrounding. Note that camouflage and disguise are two different professions.
 
-Action: a disguise last for about 1d2*10 minutes.
+Action: camouflage last for about 1d2*10 minutes.

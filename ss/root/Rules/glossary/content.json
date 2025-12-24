@@ -17,6 +17,10 @@
     {
       "title": "Categories",
       "name": "category.md"
+    },
+    {
+      "title": "Creatures",
+      "name": "creatures.md"
     }
   ],
   "mainFile": "context.md"

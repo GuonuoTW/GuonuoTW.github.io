@@ -7,6 +7,7 @@ Running, Walking, Climbing, Jumping, Throwing, and other kinds of sports.
 Common usage and Professions:
 
 **Throwing weapon attack:** 
+AGI + Athletics(Light Throwing Weapon), AGI + Athletics(Throwing Weapon)...
 See [[**Structure of a battle**]]
 
 **Reflex Saving Check**
