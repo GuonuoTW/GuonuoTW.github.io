@@ -1,6 +1,6 @@
 # Bonus & Penalty
 
-**Bonus:**
+## Bonus:
 Some Enhancements or Abilities may give you "Bonus" with a certain type. These bonuses grant you additional DP in some situations.
 
 Unless specified, when multiple bonuses of the same type apply to a single aspect (Checks, Stats...), only the highest value applies. If it's from multiple different sources, they are added up together. 
@@ -13,63 +13,64 @@ Bonuses from the same source, with the same type may stack together as a whole.
 
 
 
-**Types of Bonuses**
-Intrinsic Bonus:
+Types of Bonuses
 
-Practicing Bonus:
+**Intrinsic Bonus:** (內在加值)
 
-Reinforcement Bonus:
+**Practicing Bonus:** (修行加值)
 
-Machinary Bonus:
+**Reinforcement Bonus:** (增強加值)
 
-Speed Bonus:
+**Machinary Bonus:** (器械/助動加值)
 
-Morale Bonus:
+**Speed Bonus:** (速度加值)
 
-Performance Bonus:
+**orale Bonus:** (士氣加值)
 
-Move Bonus:
+**Performance Bonus:** (表現加值)
 
-Initial Defense Bouse: 基礎防御
+**Technique Bonus:** (招式加值)
 
-閃避 Evade
+**Base Defense:** (基礎防御)
 
-天生防御
+**Evade Bonus:** (閃避加值)
 
-盔甲防御
+**Born Defense:** (天生防御)
 
-盾牌防御
+**Armor Defense:** (盔甲防御)
 
-格擋 Guarding
+**Shield Defense:** (盾牌防御)
 
-環境
+**Insight Bonus:** (洞察加值)
 
-洞察 Insight
+**Guard Defense:** (格擋防御)
 
-Luck Bonus:
+**Environmental Bonus:** (環境加值)
 
-Field Bonus:
+**Luck Bonus:** (幸運/機運加值)
 
-Energy Bonus:
+**Field Bonus:** (力場加值)
 
-Deflection Bonus:
+**Energy Bonus:** (能量加值)
 
-Holy Bonus:
+**Deflection Bonus:** (偏斜加值)
 
-Unholy Bonus:
+**Holy Bonus:** (神圣加值)
 
-Covered Bonus:
+**Unholy Bonus:** (褻瀆加值)
 
-Nameless Bonus:
+**Covered Bonus:** (掩蔽加值)
 
-Profession Bonus:
+**Nameless/Unnamed Bonus:** (無名加值)
 
-Expertise Bonus:
+**Profession Bonus:** (專業加值)
 
-Size Bonus:
+**Expertise/Feat Bonus:** (專長加值)
 
-RP Bonus:
-**RP Bonuses are exceptions to the rules.**
+**Size Bonus:** (體積加值)
 
-Perfect Bonus:
-**Perfect Bonuses are exceptions to the rules.**
+**RP Bonus:** (表演加值)
+*RP Bonuses are exceptions to the rules.*
+
+**Perfect Bonus:** (完美加值)
+*Perfect Bonuses are exceptions to the rules.*
