@@ -25,7 +25,7 @@ Each Negative Status with points has its own resisting rules written in its desc
 
 # Negative Status without Points
 
-**Transformed**
+**Transformed** (變形)
 Transformed changes one's body structure, or change what made up their body into another thing, therefore hinder activity or one's usual state.
 There are Self-transform and Other-transform abilities.
 Self-transform abilities, eg. Nightwolf Transform, is not considered a Negative Status.
@@ -33,12 +33,12 @@ Other-transform abilities, eg. Magic-Transform, will have {Transformation} Keywo
 Transformations can not be stacked, the latter one will replace the earlier one. Under this circumstance, only Other-transform abilities can replace one another. Self-transform ability can't replace Other-transform abilities.
 Abilities that grant immunity to transformation will provide immunity to all Other-transform abilities, while self-transformation abilities are not affected by one's own transformation immunity abilities.
 
-**Poisoned**
+**Poisoned** (毒素)
 Poisoned means some type of substance that causes special effects enter one's body. Or it could be triggered through Supernatural, Magic as well. Generally, this includes Snake Venom, Weed, Alcohol, even Smokes. Side-effects of medicines could be counted into this category as well.
 Creatures without metabolism are immune to Natural poison.
 Poisons generally have 4 ways of entering one's body: Breath, Consume, Touch, Wounds.
 
-**Possessed**
+**Possessed** (附身)
 Spirits, incorporeal beings, monsters, or creatures with similar abilities dwelling within a human body or object, thereby causing destructive effects.
 Unless specified, the Host and the Possessor are identified as the same entity. Any attack towards the possessor are aim towards the Host instead.
 Some possessor may only possess specific hosts. And most possessor only has one or a few effects.
@@ -46,129 +46,129 @@ Some possessor may only possess specific hosts. And most possessor only has one 
 Generally, Each possessing ability will describe some way to dispel. Other than the described ways, you may use specific ability as well. If a resisting is needed, Unpossessor use the ability Check to resist against possessor's ability check. If it does not have one, do a Will Check. If unpossessor wins, Possessed effect is dispelled.
 All possessing ability will have {Possess} Keyword.
 
-**Illusion, Hallucination**
+**Illusion, Hallucination** (幻象、幻覺)
 Illusion is an effect caused by unreal or imaginary object, feeling, sight. Characters may 
 
-**Illness**
+**Illness** (疾病)
 
-**Cursed, Magic**
+**Cursed, Magic** (詛咒、魔法)
 
-**Mind-affected**
+**Mind-affected** (影響心靈)
 
-**Surprised**
+**Surprised** (措手不及)
 
-**Helpless**
+**Helpless** (無助)
 
-**Floating**
+**Floating** (浮空)
 
-**Tripped**
+**Tripped** (倒地)
 
-**Intimidated**
+**Intimidated** (震懾)
 
-**Suffocated**
+**Suffocated** (窒息)
 
-**Addicted**
+**Addicted** (上癮)
 
-**Exiled**
+**Exiled** (放逐)
 
-**Imprisoned**
+**Imprisoned** (禁錮)
 
-**Silenced**
+**Silenced** (沉默)
+ 
+**Sealed** (封印)
+ 
+**Frozen** (冰封)
 
-**Seal**
+**Deaf** (耳聾)
 
-**Frozen**
+**Blind** (目盲)
 
-**Deaf**
+**Disgusted** (反胃)
 
-**Blind**
+**Stoned** (石化)
 
-**Disgusted**
+**Held** (定身)
 
-**Stoned**
+**Fainted** (昏迷)
 
-**Held**
+**Infatuated** (迷情)
 
-**Fainted**
+**Starved** (饑渴)
 
-**Infatuated**
+**Tired** (疲憊)
 
-**Starved**
+**Powerless** (力竭)
 
-**Tired**
+**Misanthropy** (厭世)
 
-**Powerless**
+**Frenzy** (狂躁)
 
-**Misanthropy**
+**Horrified** (驚懼)
 
-**Frenzy**
+**Sleeping** (睡眠)
 
-**Horrified**
-
-**Sleeping**
-
-**Disabled**
+**Disabled** (肢體殘障)
 
 ## Negative Status with Points
 
-**Freeze Points**
+**Freeze Points** (凍結點數)
 Key Resisting Stats: STR, AGI
 
-**Deaf Points**
+**Deaf Points** (耳鳴點數)
 Key Resisting Stats: EDR, PCT
 
-**Vertigo Points**
+**Vertigo Points** (目眩點數)
 Key Resisting Stats: EDR, PCT
 
-**Nausea Points**
+**Nausea Points** (惡心點數)
 Key Resisting Stats: EDR, DTM
 
-**Crystalize Points**
+**Crystalize Points** (晶化點數)
 Key Resisting Stats: DTM, CMT
 
-**精神束縛點數**
-關鍵抵抗屬性：決心，沉著
+**Mental Bind Points** (精神束縛點數)
+Key Resisting Stats: DTM, CMP
 
-**Struggle Points**
+**Struggle Points** (糾纏點數)
 Key Resisting Stats: STR, AGI
 
-**Paralyze Points**
+**Paralyze Points** (麻痹點數)
 Key Resisting Stats: EDR, DTM
 
-**Painful Points**
+**Painful Points** (劇痛點數)
 Key Resisting Stats: EDR, DTM
 
-**Dizzy Points**
+**Dizzy Points** (暈眩點數)
 Key Resisting Stats: EDR, DTM
 
-**Seduce Points**
+**Seduce Points** (魅惑點數)
 Key Resisting Stats: DTM, DMR
 
-**Fatigue Points**
+**Fatigue Points** (疲乏點數)
 Key Resisting Stats: EDR, STR
 
-## 情緒異常 Emotional Distress
+## Emotional Distress (情緒異常)
 
-**Emotional Distress - Depressed Points**
+**Emotional Distress - Depressed Points** (情緒異常-沮喪點數)
 Key Resisting Stats: DTM, CMT
 
-**Emotional Distress - Euphoric Points**
+**Emotional Distress - Euphoric Points** (情緒異常-亢奮點數)
 Key Resisting Stats: DTM, CMT
 
-**Emotional Distress - Fear Points**
+**Emotional Distress - Fear Points** (情緒異常-恐懼點數)
 Key Resisting Stats: DTM, CMT
 
-**Sleepiness Points**
+**Sleepiness Points** (欲眠點數)
 Key Resisting Stats: DTM, CMT
 
-**Handicap Points**
+**Handicap Points** (肢體妨害點數)
 Key Resisting Stats: STR, AGI, EDR
-
-**Stall Points**
+ 
+**Stall Points** (失速點數)
 Key Resisting Stats: STR, AGI
 
-**Burn Points**
+**Burn Points** (燃燒點數)
 Key Resisting Stats: AGI
 
-**Bleed Points**
+**Bleed Points** (流血點數)
 Key Resisting Stats: EDR

@@ -25,7 +25,7 @@ Types of Bonuses
 
 **Speed Bonus:** (速度加值)
 
-**orale Bonus:** (士氣加值)
+**Morale Bonus:** (士氣加值)
 
 **Performance Bonus:** (表現加值)
 

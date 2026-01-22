@@ -27,8 +27,12 @@
       "name": "tiering.md"
     },
     {
-      "title": "Damage Types & Defending",
+      "title": "Types of Damage",
       "name": "dmgtype.md"
+    },
+    {
+      "title": "Types of Defense",
+      "name": "defensetype.md"
     },
     {
       "title": "Negative Status",
