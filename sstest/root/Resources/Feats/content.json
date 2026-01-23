@@ -1,0 +1,15 @@
+{
+    "title": "Feats / Expertises",
+    "folders": [],
+    "files": [
+        {
+            "title": "Cardbuilding Only Feats",
+            "name": "cardbuilding.md"
+        },
+        {
+            "title": "Combat Feats",
+            "name": "combatfeat.md"
+        }
+    ],
+    "mainFile": "main.md"
+}

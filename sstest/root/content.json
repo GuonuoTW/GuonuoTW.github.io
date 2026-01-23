@@ -1,0 +1,16 @@
+{
+  "title": "Root",
+  "folders": [
+    "Prologue",
+    "Rules",
+    "Resources",
+    "Unused"
+  ],
+  "files": [
+    {
+      "title": "Lorem ipsum",
+      "name": "lorem-ipsum.md"
+    }
+  ],
+  "mainFile": "context.md"
+}

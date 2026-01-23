@@ -1,0 +1,34 @@
+{
+  "title": "Making your character",
+  "folders": [
+    "Skills",
+    "Feats"
+  ],
+  "files": [
+    {
+      "title": "Step 1. Background",
+      "name": "info.md"
+    },
+    {
+      "title": "Step 2. Stats",
+      "name": "stats.md"
+    },
+    {
+      "title": "Step 3. Skills",
+      "name": "skills.md"
+    },
+    {
+      "title": "Step 4. Feats",
+      "name": "feats.md"
+    },
+    {
+      "title": "Virtue, Sin, Morality",
+      "name": "vsm.md"
+    },
+    {
+      "title": "Stats",
+      "name": "statsinfo.md"
+    }
+  ],
+  "mainFile": "context.md"
+}

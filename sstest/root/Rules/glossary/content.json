@@ -1,0 +1,27 @@
+{
+  "title": "Glossary",
+  "folders": [],
+  "files": [
+    {
+      "title": "Terminology",
+      "name": "terms.md"
+    },
+    {
+      "title": "Bonus & Penalty",
+      "name": "bonus.md"
+    },
+    {
+      "title": "Inscriptions",
+      "name": "inscription.md"
+    },
+    {
+      "title": "Categories",
+      "name": "category.md"
+    },
+    {
+      "title": "Creatures",
+      "name": "creatures.md"
+    }
+  ],
+  "mainFile": "context.md"
+}

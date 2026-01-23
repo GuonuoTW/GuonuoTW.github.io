@@ -1,0 +1,43 @@
+{
+  "title": "Battles",
+  "folders": [],
+  "files": [
+    {
+      "title": "Scout & Locate",
+      "name": "detect.md"
+    },
+    {
+      "title": "Concept of Time & Actions",
+      "name": "time.md"
+    },
+    {
+      "title": "How a Battle Goes",
+      "name": "battlestructure.md"
+    },
+    {
+      "title": "HP, Willpower, and Energy Pools",
+      "name": "hp.md"
+    },
+    {
+      "title": "Spellcasting",
+      "name": "casting.md"
+    },
+    {
+      "title": "Tiers and Resisting",
+      "name": "tiering.md"
+    },
+    {
+      "title": "Types of Damage",
+      "name": "dmgtype.md"
+    },
+    {
+      "title": "Types of Defense",
+      "name": "defensetype.md"
+    },
+    {
+      "title": "Negative Status",
+      "name": "debuff.md"
+    }
+  ],
+  "mainFile": "context.md"
+}
