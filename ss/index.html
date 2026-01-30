@@ -1,52 +1,28 @@
-<!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" href="./favicon.png" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TRPG Rulebook</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+</head>
+<body>
+  <div id="header">
+    <button class="header-btn" id="openAll">open all</button>
+    <button class="header-btn" id="closeAll">close all</button>
+    <button class="header-btn" id="showFavorites">favorites</button>
+  </div>
+  <div id="main">
+    <div id="sidebar"></div>
+    <div id="resizer"></div>
+    <div id="content"><div class="loading">Loading...</div></div>
+  </div>
 
-		<link rel="preconnect" href="https://fonts.googleapis.com">
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-
-		
-		<link href="./_app/immutable/assets/0.1PaRzD0N.css" rel="stylesheet">
-		<link href="./_app/immutable/assets/2.BIA05JSA.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/entry/start.CeNXpADm.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/B_fY2Fdv.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/DL_gzIfW.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/BLVoSXR0.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.DrMjF9yo.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/CJAqojN6.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/Dab5jpvE.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/CTfmWUkO.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/0.Du0fbFEj.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/2.Bx6zPUv7.js">
-	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents"><!--[--><!--[--><!----><!----><div class="md:grid md:grid-cols-[320px_auto] md:h-screen w-screen"><nav class="border-b md:border-r md:border-b-0 border-black p-2 flex flex-col gap-2"><!--[!--><p>Loading...</p><!--]--></nav> <article class="overflow-auto p-2"><!--[!--><!--]--></article></div><!----><!----><!----><!--]--> <!--[!--><!--]--><!--]-->
-			
-			<script>
-				{
-					__sveltekit_1fhtx5 = {
-						base: new URL(".", location).pathname.slice(0, -1)
-					};
-
-					const element = document.currentScript.parentElement;
-
-					Promise.all([
-						import("./_app/immutable/entry/start.CeNXpADm.js"),
-						import("./_app/immutable/entry/app.DrMjF9yo.js")
-					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 2],
-							data: [null,null],
-							form: null,
-							error: null
-						});
-					});
-				}
-			</script>
-		</div>
-	</body>
+  <script src="config.js"></script>
+  <script src="icons.js"></script>
+  <script src="app.js"></script>
+  <script src="resources.js"></script>
+  <script src="favorites.js"></script>
+  <script src="resizer.js"></script> 
+</body>
 </html>

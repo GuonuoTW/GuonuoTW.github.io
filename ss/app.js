@@ -25,7 +25,7 @@ function renderContent(markdown) {
   contentDiv.innerHTML = marked.parse(markdown);
 }
 
-async function loadFile(path, fileItem) {
+async function loadFile(path, fileItem, fileTitle) {
   try {
     if (currentFile) {
       currentFile.classList.remove('active');
@@ -35,8 +35,13 @@ async function loadFile(path, fileItem) {
 
     const markdown = await loadMarkdown(path);
     renderContent(markdown);
+    
+    // Add favorite button
+    const fullPath = CONFIG.basePath + path;
+    const title = fileTitle || fileItem.textContent || 'Page';
+    addFavoriteButton(fullPath, title);
   } catch (err) {
-    const defaultMessage = "empty page";
+    const defaultMessage = "# No content available\n\nThis section does not have a description yet.";
     renderContent(defaultMessage);
     console.warn('File not found:', path);
   }
@@ -81,14 +86,34 @@ async function buildTree(folderPath, container, level = 0) {
     };
     allFolders.push(folderState);
 
-    header.addEventListener('click', async (e) => {
+    toggle.addEventListener('click', async (e) => {
       e.stopPropagation();
       const isOpen = content.classList.toggle('open');
       toggle.textContent = isOpen ? '−' : '+';
       iconSpan.innerHTML = isOpen ? ICONS.folderOpen : ICONS.folderClosed;
       
-      if (data.mainFile && isOpen) {
-        await loadFile(folderPath + data.mainFile, header);
+      // Special handling for Resources folder
+      if (data.title === 'Resources' && isOpen) {
+        const searchUI = await initResourcesSearch(folderPath);
+        if (searchUI) {
+          document.getElementById('content').innerHTML = '';
+          document.getElementById('content').appendChild(searchUI);
+          
+          // Setup search input handler
+          document.getElementById('resourceSearch').addEventListener('input', (e) => {
+            const results = searchResources(e.target.value);
+            displaySearchResults(results);
+          });
+        }
+      } else if (data.mainFile && isOpen) {
+        await loadFile(folderPath + data.mainFile, header, data.title);
+      }
+    });
+    
+    name.addEventListener('click', async (e) => {
+      e.stopPropagation();
+      if (data.mainFile) {
+        await loadFile(folderPath + data.mainFile, header, data.title);
       }
     });
 
@@ -114,7 +139,7 @@ async function buildTree(folderPath, container, level = 0) {
         
         fileItem.addEventListener('click', (e) => {
           e.stopPropagation();
-          loadFile(folderPath + file.name, fileItem);
+          loadFile(folderPath + file.name, fileItem, file.title);
         });
         content.appendChild(fileItem);
       }
@@ -146,6 +171,10 @@ document.getElementById('closeAll').addEventListener('click', () => {
     folder.toggle.textContent = '+';
     folder.iconSpan.innerHTML = ICONS.folderClosed;
   });
+});
+
+document.getElementById('showFavorites').addEventListener('click', () => {
+  showFavoritesList();
 });
 
 async function init() {

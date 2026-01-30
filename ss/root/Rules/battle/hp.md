@@ -15,19 +15,19 @@ B, L, A type of HP are collectively called "Wounded Points" or "Injuries".
 
 Every time your character takes damage, check whether they "Faint" or "Deteriorate".
 
-**Fainting**
+**Fainting** <br>
 If the character no longer has any HP(H) or HP(A), Your character faints (Unconscious).
 
 Your character wakes up the moment they recover a point of HP(H) or a point of Willpower.
 The character can also be awakened by RP methods, ex. getting splashed cold water - ST decides whether it works or not.
 
-**Deteriorating**
+**Deteriorating** <br>
 If the character no longer has any HP(H) and they DO have HP(A), then they also suffer deterioration along with fainting. At the end of the character's turn, a point of HP turns into HP(A) (HP(L) first). This continues until either the character only has HP(A) or they recover a point of HP(H). In addition, deterioration stops the moment the character recovers HP from any source, or with a successful "First Aid" Check. 
 
-**Death**
+**Death** <br>
 If the character has only HP(A), they are consider "Dead" unless specified. Some abilities might trigger on death, but you can only choose ONE ability to trigger on death - any other abilities remain untriggered.
 
-**Life states**
+**Life states** <br>
 Some enhancements or abilities allow you to know a creature's life state. Unless specified, rather than exact numbers, you will only get one of the following vague states:
 
 - Unharmed: The creature isn't injured at all. (All HP(H))
@@ -37,7 +37,7 @@ Some enhancements or abilities allow you to know a creature's life state. Unless
 - Near death: The creature only has HP(A), but is not dead for varying reasons (depending on the situation).
 - Dead: The creature is dead.
 
-**Taking Damage**
+**Taking Damage** <br>
 Likewise, Damage is also split into DMG(B), DMG(L), DMG(A).
 
 
@@ -69,7 +69,7 @@ If you take multiple degrees of DMG, start converting from the lowest tier (B th
 *Converting 1 point of HP(L) to HP(A).*
 *— Finally, his health is 0 Unharmed + 0 HP(B) + 14 HP(L) + 6 HP(A). All health points are filled with damage, and the worst state is Aggravated, therefore he has Fainted, and his injuries will continue Deteriorating every Turn.*
 
-**Natural Recovery**
+**Natural Recovery** <br>
 A Short Rest (At least 15 minutes) heals 1 HP(B) back to HP(H).
 
 Every 2 days, with at least 2 Long Rests (At least 8 hours) heals 1 HP(L) back to HP(H).
@@ -88,13 +88,13 @@ For every Long Rest lasting at least 24 hours, you may heal 1 point of Stats Dam
 
 These effects are stackable.
 
-**Natural Recovery Acceleration**
+**Natural Recovery Acceleration** <br>
 Some abilities grant you faster natural recovery. Divide the amount of time required for a full rest by the multiple number, round up. 
 
-**Healing with Nursing**
+**Healing with Nursing** <br>
 See the Profession's description.
 
-**Rapid Healing, Regeneration**
+**Rapid Healing, Regeneration** <br>
 If a character possesses 1 point of Rapid Healing, they can recover 1 point of DMG(B) or DMG(L) at the start of every Turn,.
 If a character possesses 4 points of Rapid Healing, they can recover a cumulative total of 4 points of Blunt or Lethal Damage, or recover 1 point of DMG(A) at the start of every Turn,.
 Rapid Healing does not stack, but multiple instances can take effect simultaneously.
@@ -108,13 +108,13 @@ Additionally, Regeneration has the effect of regenerating lost limbs. If a playe
 Note: Certain excessively small limbs (such as eyes, single teeth, etc.) are treated as at least Size 1 during calculation.
 Note: If one possesses the ability to reattach lost limbs, and the lost limb exists and allows reattachment, change the aforementioned hours to minutes.
 
-**Temporary Hit Points**
+**Temporary Hit Points** <br>
 Temporary HP works the same way as shields. Drop the tier of the injuries taken, and decrease the number from Temporary HP, starting from the highest tier.
 Temporary HP will not be considered in abilities that use descriptors like "Inevitable ?? Damage" or "Convert target's HP to HP(?)".
 
 Temporary HP is not stackable. Unless specified, Abilities that grant Temporary HP only take effect once per scene, and they will only last for that scene.
 
-**Temporary Max HP Adjustments**
+**Temporary Max HP Adjustments** <br>
 In some situations, such as gaining temporary EDR, you may gain extra HP. They are treated as HP(H).
 When you lose these temporary HP, your current HP state is removed in the order of HP(H) -> HP(B) -> HP(L) -> HP(A). If after removal, your health is filled with Aggravated damage, you still Die unless specified.
 
@@ -125,7 +125,7 @@ If your max health was reduced by any effect during a temporary Max HP increase,
 
 *example: Your health is 8; you temporarily gain 3 points of max health, becoming 11. In the duration, you lose 1 point of max health, becoming 10. When the duration ends, your health becomes 7.*
 
-**Secondary HP**
+**Secondary HP** <br>
 Certain special abilities allows players to utilize Willpower, other Energy Pools, or another specific value as a second HP bar to continue surviving when their health is entirely filled with Aggravated Damage.
 When such abilities take effect, a new HP bar is established based on the maximum Willpower, maximum Energy Pool, or the specific value at the moment of activation.
 Unless otherwise specified, the Secondary HP Bar still distinguishes between Blunt, Lethal, and Aggravated Damage. Furthermore, situations such as spending Willpower or energy, fluctuations in the value, or temporary increases or decreases to the maximum Willpower or Energy Pool limits will NOT affect the Secondary HP Bar.
@@ -137,14 +137,14 @@ Your initial maximum Willpower point is equal to your Will. Willpower is NOT an 
 
 The character may use Willpower as long as they have self-awareness. That is, they may not use it when they are asleep, unconscious, or in other states that prevent conscious thinking.
 
-**Using Willpower**
+**Using Willpower** <br>
 When the character performs an action (Attacks, Skill checks...) that only require a single Check (Extended actions are excluded), they may use 1 point of Willpower to gain +3 DP Perfect Bonus. This effect can only be used once per action, and does not spend any action.
 
 Additionally, when a character is being attacked, the character can spend 1 point of Willpower to gain +3 DP Perfect Bonus against that specific attack as well.
 
 Some enhancements or abilities might change this usage.
 
-**Other usages of Willpower**
+**Other usages of Willpower** <br>
 Resisting against Fainting due to injuries:
 When the character faints due to injuries, they may spend 1 point of Willpower to remain conscious for 1 round in battle (Without spending an action) / 1 hour out of battle. After the specified time is up, the character may choose to spend another point of Willpower to remain conscious.
 
@@ -155,7 +155,7 @@ When the character faints due to hunger, or other sources, they may spend 1 poin
 In both cases, The character will need to spend another point of Willpower if they suffer further injuries or conditions that would cause them to faint.
 *Example: Bob takes 6L and faints, but he immediately uses a power of Willpower to stay up. On their turn, they immediately take another 2L damage from bleeding, which causes them to faint again. They need to spend another point to remain conscious.*
 
-**Temporary Willpower**
+**Temporary Willpower** <br>
 Temporary Willpower is gained ignoring the maximum limit of Willpower.
 After gaining Temporary Willpower, the next time a character spends Willpower, they spend Temporary Willpower first.
 If the character is under an effect that causes them to lose their Willpower, Temporary Willpower would be lost first.
@@ -164,7 +164,7 @@ As long as a character possesses Temporary Willpower, their Willpower is not con
 Gaining Temporary Willpower is NOT a way of recovering Willpower, so it cannot trigger certain effects and abilities, nor can it allow a character to wake up from Fainting.
 Unless otherwise specified, Temporary Willpower generally lasts for one Scene.
 
-**Temporary Willpower Adjustments**
+**Temporary Willpower Adjustments** <br>
 A character's Willpower may change due to some effects. Since Willpower is derived from Will, when it changes, the corresponding Willpower pool will also change. There are also some abilities that can directly affect the Willpower max limit.
 If you temporarily gain an ability that increases Will, such as gaining 1 point of Stats, this increases both Will and Willpower max limit. However, this new slot is empty and not filled until your Willpower recovers.
 *example: If you temporarily gain 1 point of DTM, the corresponding Will increases by 1 point, and your Willpower max limit increases by 1 point. However, this is 1 point of empty limit and will not grant you 1 point of usable Willpower immediately*.
@@ -176,37 +176,37 @@ Note: Certain abilities that only affect Will Checks or Will Saving Throwing do 
 
 # Energy Pools
 
-**Energy Pool Categories**
+**Energy Pool Categories** <br>
 All Energy Pools in the Resources section are divided into "General Energy Pools" and "Special Energy Pools"
 
 General Energy Pools are usually further divided into "Eastern Energy Pools" and "Western Energy Pools". Some General Energy Pools belong to both Eastern and Western Energy Pools simultaneously - in this case, they are referred to as Energy Pools belonging to both East and West.
 
 Special Energy Pools are neither Eastern nor Western Energy Pools.
 
-**Key Stats of the Energy Pool**
+**Key Stats of the Energy Pool** <br>
 The key stats of an energy pool decides its maximum value. Generally, energy pools are dependent on 2 stats; the sum of them is the maximum value of the energy pool.
 
-**Energy Pool Subcategories**
+**Energy Pool Subcategories** <br>
 Based on their key stats, energy pools can be categorized into Physic Energy Pools, Mental Energy Pools, and Social Energy Pools. If the Energy Pool's key stats is from two different stat categories, the Energy Pool belongs in both categories.
 
-**Obtaining Energy Pools**
+**Obtaining Energy Pools** <br>
 There are 3 methods to obtain an energy pool.
 - Purchase: Some Energy Pools can be purchased directly.
 - Comes with the resource: Some Energy Pools are only obtainable through buying other resources.
 *Example: Mana Energy Pool.*
 - Upgrade: Some Energy Pools can only be obtained from upgrading other Energy Pools.
 
-**Usage of Energy Pools**
+**Usage of Energy Pools** <br>
 Each Energy Pool will mention how they are used in their page. 
 Apart from this, certain Titles, Alternations, Bloodlines, etc., may provide other uses for certain Energy Pools after purchase by the player.
 Some abilities allow players to select a specific Energy Pool in a catogory. Unless otherwise specified, players can only choose general Energy Pools.
 *example: "Infinite Punch" requires the player to choose a Physical Energy Pool, but they cannot choose Ripple, because Ripple is a special Energy Pool.*
 *example 2: "Nail Punch" requires the player to pay 1 point of energy. Therefore, the player cannot pay Calories, because Calories is a special Energy Pool.*
 
-**Recovery of Energy Pools**
+**Recovery of Energy Pools** <br>
 Each Energy Pool will mention the recovery means of that energy on its page. Certain Titles, Modifications, Bloodlines, etc., may provide other recovery methods for certain Energy Pools upon purchase by the player.
 
-**Substitute Spending of Energy Pools**
+**Substitute Spending of Energy Pools** <br>
 Certain Energy Pools can substitute for each other for Spending.
 When the target has immunity corresponding to the respective Energy Pool, it is calculated based on the new Energy Pool.
 *example: Against an effect that is immune to Mental energy, using "Force" to substitute for "Interna", the "Interna" Energy effect after substitution will not be immunized.*
