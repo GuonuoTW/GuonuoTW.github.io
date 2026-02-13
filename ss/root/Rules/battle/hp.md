@@ -1,5 +1,5 @@
 # HP, Willpower, and Energy Pools
-
+*last edit: 260125*
 # HP 
 Health Points (HP) represents a character's current health status. Each point of HP corresponds to one of 4 types: 
 
